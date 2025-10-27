@@ -1,0 +1,67 @@
+* {
+	font-family: "Segoe UI";
+}
+
+body.index, body.content {
+	margin: 8px 0px;
+}
+
+.permalink {
+	position: sticky;
+	left: 100%;
+	right: 0px;
+	text-decoration: none;
+	width: 8px;
+	margin-left: 4px;
+	margin-right: 0px;
+	text-align: center;
+}
+
+.video {
+	display: block;
+	clear: right;
+	padding: 0px 8px;
+	-margin-top: 16px;
+}
+
+div.event {
+	padding: 1px 8px;
+}
+
+div.event.featured {
+	background-color: #A6D0E6;
+}
+
+span.event-region {
+	border: 1px solid #7BBBD7;
+	background-color: #D5EBF4;
+	padding: 0px 4px;
+}
+
+div.event-header {
+	padding: 0px 8px;
+}
+
+.event-title-header {
+	font-size: 36px;
+}
+
+.video-title {
+	font-size: 24px;
+	margin-bottom: 8px;
+}
+
+img.event-logo, img.event-logo-thumb, img.video-thumb, img.video-slide {
+	object-fit: contain;
+	display: inline-block;
+	background-color: #A0A0A0;
+	outline: 1px solid #48A0CB;
+}
+img.event-logo { width: 100px; height:75px; float: left; margin-right: 8px; }
+img.event-logo-thumb { width: 45px; height:32px; vertical-align: middle; }
+img.event-logo-thumb { width: 45px; height:32px; vertical-align: middle; }
+img.video-thumb { width: 102px; height:75px; vertical-align: top;  }
+img.video-slide { display:block; width: 320px; height:240px; vertical-align: bottom; float: right; }
+img.event-logo-thumb.broken, img.video-thumb.broken, img.video-slide.broken {
+	visibility: hidden;
+}

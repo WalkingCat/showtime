@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Showtime</title>
+<link rel="icon" href="favicon.png"/>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body style='background-color:#F5F5F5;margin:0px;height:calc(100vh - 0px);overflow:hidden;'>
+	<script type='module'>
+			const page = new URLSearchParams(window.location.search).get('p');
+			if (page) {
+				const sep = page.indexOf('_');
+				if (sep > 1) {
+					const eventId = page.substring(0, sep);
+					const content = page.substring(sep + 1);
+					window.open('Events.html#' + eventId, 'index');
+					window.open('Event' + '_' + eventId + '.html', 'content');
+				}
+			}
+	</script>
+	<div style='display:block;width:100%;height:40px;border-bottom:4px solid #48A0CB;background-color:#58B3D7;'>
+		<div style='display:inline-flex;justify-content:space-between;height:40px;padding:0px;'>
+			<a href='http://web.archive.org/web/2020/https://channel9.msdn.com/' target='_blank'><img src='showtime.png' height=40/></a>
+		</div>
+		<div style='float:right;height:24px;padding:8px;background-color:white;'>
+			Built by
+			<a href='https://twitter.com/_h0x0d_' target='_blank' style='text-decoration: none;'>WalkingCat <img src='twitter.png' style='vertical-align:middle;width:24px;height:24px'/></a>
+			<a href='https://bsky.app/profile/h0x0d.bsky.social' target='_blank' style='text-decoration: none;'>BlueSky <img src='bluesky.png' style='vertical-align:middle;width:24px;height:24px'/></a>
+			<a href='https://github.com/walkingcat/ch9-index/' target='_blank' style='text-decoration: none;'>GitHub <img src='github-fluidicon.png' style='vertical-align:middle;width:24px;height:24px'/></a>
+			<a href='https://www.youtube.com/@WalkingCatVideos' target='_blank' style='text-decoration: none; '>YouTube <img src='youtube.png' style='vertical-align:middle;margin:0px;padding:0px;width:24px;height:24px;'/></a>
+		</div>
+	</div>
+	<div style="display:block;width:100%;height:calc(100% - 44px);">
+		<nobr>
+			<div style='display:inline-block;width:45%;height:100%;'><iframe name='index' src='Events.html' style='width:100%;height:100%;margin:0px;border:none'></iframe></div>
+			<div style='display:inline'><iframe name='content' src='Event_0.html' style='vertical-align:top;width:55%;height:100%;margin:0px;border:none;'></iframe></div>
+  	</nobr>
+  </div>
+</body>
+</html>
