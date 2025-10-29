@@ -35,7 +35,7 @@ Id,Featured,Title,Region,Logo
 36,,(Michael Anderberg on Exchange),Sweden,
 37,,Introduktion till Windows Vista,Sweden,
 38,,Small Business Server-skolan,Sweden,
-39,,WinFX Rotterdam,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/WinFX_event2006_logo.png
+39,,WinFX Rotterdam,Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/WinFX_event2006_logo.png
 40,,"Sneak Preview zu Windows Vista und Exchange ""12""",Germany,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technet_sneak_preview_logo.png
 41,,Web Administration Summit 2006,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/was_logo.png
 42,,Get Ready For Exchange - Roadshow,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/grexch_logo.png
@@ -58,7 +58,7 @@ Id,Featured,Title,Region,Logo
 59,,Vecerní Univerzita,Czechia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/vecerni_univerzita_logo.png
 60,,MS Zirve 2007,Turkey,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/zirve_logo.png
 61,,Virtualization tour,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/virtuali_logo.png
-62,,You're in control,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/Forefront_logo.png
+62,,You're in Control,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/Forefront_logo.png
 63,,Windows Server Longhorn Press,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/longhorn_logo.png
 64,,Multilicenční programy,Czechia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/multilicencni_programy_logo.png
 65,✅,Tech Ed US 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/tech_ed2007_logo.png
@@ -72,17 +72,17 @@ Id,Featured,Title,Region,Logo
 73,,Building End-to-End Infrastructure Security,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/infrastructure_security.png
 74,,Office Communications Server 2007 Ignite Tour,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/ignite_logo.png
 75,✅,WinHEC 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/winhec07_logo.png
-76,✅,DevDays 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/devdays07_logo.png
+76,✅,DevDays 2007,Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/devdays07_logo.png
 77,✅,Documentaries,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/documentaries_logo.png
 78,,BizTalk Server 2006 R2 Launch,Australia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/biztalk_logo.png
 79,,MMS Roadshow 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/mmsroadshow07_logo.png
 80,,SBS 2003 a Windows Vista,Czechia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/sbs2003_logo.png
-81,,Technet konference 2007,Czechia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technet_conference07_logo.png
+81,,Technet Konference 2007,Czechia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technet_conference07_logo.png
 82,✅,TechEd Developers 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/teched_developers_07_logo.png
 83,✅,TechEd IT Forum 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/teitf07_logo.png
 84,,Microsoft 2007 SOA and Business Process Conference,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/SOA_BP_logo.png
 85,,Конференция Платформа 2008,Russia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/platforma_russia_logo.png
-86,,Convergence 2007-Copenhagen,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/convergence07.png
+86,,Convergence 2007 - Copenhagen,Danmark,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/convergence07.png
 87,,Windows Server 2008 - Selection,Sweden,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/ws08_logo.png
 88,,Windows Server 2008 Summit,Sweden,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/WS08_summit_logo.png
 89,,TechNet Live,Norway,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/teched_live_nw.png
@@ -98,7 +98,7 @@ Id,Featured,Title,Region,Logo
 99,,Data Mining and Business Intelligence for Enterprises,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/dmbi_logo.png
 100,,NT Konferenca 2008,Slovenia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/NTK2008_logo.png
 101,✅,Heroes Happen Here - US Premier Launch Dallas,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/us_premier_launch_logo.png
-102,,DevDays Netherlands 2008,Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/nl_devdays08.png
+102,,DevDays Netherlands 2008 'Bring your Ideas to Life',Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/nl_devdays08.png
 ,,,,
 104,✅,TechEd North America 2008 - IT Professionals,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/techedUS2008_logo.png
 105,,Geek Night Netherlands 2008,Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/nl_geeknight08.png
