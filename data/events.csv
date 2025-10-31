@@ -1,5 +1,5 @@
 Id,Featured,Title,Region,Logo
-0,✅,Featured Events,,
+,,,,
 1,✅,IT Forum 2004,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/ITF04_logo.png
 ,,Managing Dynamic Storage Services - Lessons Learned ,,
 ,,Microsoft Identity Management Strategy and Roadmap,,
@@ -23,7 +23,9 @@ Id,Featured,Title,Region,Logo
 21,✅,Windows Kernel Internals,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/kernel_internals_logo.png
 22,,TechNet Videos - Webcasts 2006,Germany,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/logo_technet.png
 23,,Reality Bytes Broadcasting,Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/rbb_logo.png
-24,,Ready To Rock - The Tech Days,Portugal,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technet_days_logo.png
+777,✅,Ready to Rock - The Launch,,(local)
+24,,Ready to Rock - The Tech Days,Portugal,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technet_days_logo.png
+888,✅,Windows Vista Demos,,(local)
 25,✅,WinHEC 2006,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/winehec_2006_logo.png
 26,,Experience the Difference Tour,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/Experience_Difference_Tour.png
 27,,TechNet Konference,Czechia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technetKonference_logo.png
@@ -67,6 +69,7 @@ Id,Featured,Title,Region,Logo
 68,,TechNet Security Workshop VII,Italy,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technet_workshop7_logo.png
 69,,Web Administration Summit 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/web_administration_07.png
 70,✅,Microsoft Management Summit 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/mms07_logo.png
+666,✅,MIX 2007 Keynote,,(local)
 71,✅,REMIX 2007,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/logo_remix.png
 72,,TechNet Live 2007,Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/tnlive_nl_logo.png
 73,,Building End-to-End Infrastructure Security,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/infrastructure_security.png

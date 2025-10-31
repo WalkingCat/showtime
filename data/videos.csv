@@ -266,10 +266,10 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0265,0060,0265_w.asf,,✅,✅,255,,✅,✅,✅,37,Introduktion till Windows Vista,Introduktion till Windows Vista,Maria Johansson
 0266,0060,0266_w.asf,,✅,✅,256,,✅,✅,✅,38,Small Business Server-skolan,"Small Business Server-skolan, Del 4",Mikael Nystrom
 0267,0060,0267_w.asf,,✅,✅,257,,✅,✅,✅,38,Small Business Server-skolan,"Small Business Server-skolan, Del 5",Mikael Nystrom
-0268,0061,0268_w.asf,,✅,✅,258,,✅,✅,✅,39,WinFX Rotterdam,"WinFX (.NET 3.0) - Windows Presentation Foundation (WPF), InfoCard (Windows CardSpace) & Windows Communication Foundation (WCF)","Ami Vora, Paul Tallett"
-0269,0061,0269_w.asf,,✅,✅,259,,✅,✅,✅,39,WinFX Rotterdam,WinFX (.NET 3.0) - Workflow Foundation (WF),"Clemens Vasters, Paul Tallett"
-0270,0062,0270_w.asf,, , ,260,,,,,20,TechNet IT Forum 2005 - Highlights,Let's take a Look at Windows Vista - Part 1,James O'Neill
-0271,0062,0271_w.asf,, ,✅,261,,,,,20,TechNet IT Forum 2005 - Highlights,Let's take a Look at Windows Vista - Part 2,James O'Neill
+0268,0061,0268_w.asf,,✅,✅,258,,✅,✅,✅,39,WinFX Rotterdam,"Introducing WinFX: WPF, InfoCard (Windows CardSpace) & WCF","Ami Vora, Paul Tallett"
+0269,0061,0269_w.asf,,✅,✅,259,,✅,✅,✅,39,WinFX Rotterdam,Introducing WinFX: Workflow Foundation (WF),"Clemens Vasters, Paul Tallett"
+0270,0062,0270_w.asf,, , ,260,,,,,20,TechNet IT Forum 2005 - Highlights,Let's Take A Look at Windows Vista - Part 1,James O'Neill
+0271,0062,0271_w.asf,, ,✅,261,,,,,20,TechNet IT Forum 2005 - Highlights,Let's Take A Look at Windows Vista - Part 2,James O'Neill
 0272,0063,0272_w.asf,,✅,✅,262,,✅,✅,✅,41,Web Administration Summit 2006,Efficient Deployment and management of ASP.net 2.0 Applications on IIS 6.0,Alexis Eller
 0273,0063,0273_w.asf,,✅,✅,263,,✅,✅,✅,41,Web Administration Summit 2006,Managing IIS 6.0 Servers in an Enterprise Environment: A Handful of Tips and Tricks.,Chris Adams
 0274,0063,0274_w.asf,,✅,✅,264,,✅,✅,✅,41,Web Administration Summit 2006,Advanced Troubleshooting With Debug Diagnostics on IIS6,Chris Adams
@@ -453,19 +453,19 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0452,0080,0452_w.asf,,✅,✅,442,,✅,✅,✅,55,Licencné Programy Spolocnosti Microsoft,,
 0453,0080,0453_w.asf,,✅,✅,443,,✅,✅,✅,55,Licencné Programy Spolocnosti Microsoft,,
 0454,0081,0454_w.asf,,✅,✅,444,,✅,✅,✅,57,TechNet Live (Danmark),Jeff - System Center Keynote.pdf,
-0455,0081,0455_w.asf,,✅,✅,445,,✅,✅,✅,57,TechNet Live (Danmark),455,
+0455,0081,0455_w.asf,,✅,✅,445,,✅,✅,✅,57,TechNet Live (Danmark),,
 0456,0081,0456_w.asf,,✅,✅,446,,✅,✅,✅,57,TechNet Live (Danmark),REMA 1000 Knudsen Consulting.pdf,
 0457,0081,0457_w.asf,, ,✅,447,,✅,✅, ,57,TechNet Live (Danmark),,
-0458,0081,0458_w.asf,,✅,✅,448,,✅,✅,✅,57,TechNet Live (Danmark),0458x,
+0458,0081,0458_w.asf,,✅,✅,448,,✅,✅,✅,57,TechNet Live (Danmark),,
 0459,0081,0459_w.asf,, ,✅,449,,✅,✅, ,57,TechNet Live (Danmark),,
-0460,0081,0460_w.asf,,✅,✅,450,,✅,✅,✅,57,TechNet Live (Danmark),0460x,
-0461,0081,0461_w.asf,,✅,✅,451,,✅,✅,✅,57,TechNet Live (Danmark),0461x,
+0460,0081,0460_w.asf,,✅,✅,450,,✅,✅,✅,57,TechNet Live (Danmark),,
+0461,0081,0461_w.asf,,✅,✅,451,,✅,✅,✅,57,TechNet Live (Danmark),,
 0462,0081,0462_w.asf,,✅,✅,452,,✅,✅,✅,57,TechNet Live (Danmark),MOM Alarm Manager.pdf,
-0463,0081,0463_w.asf,,✅,✅,453,,✅,✅,✅,57,TechNet Live (Danmark),0463 Client Management and deployment -Softgridx,
-0464,0081,0464_w.asf,,✅,✅,454,,✅,✅,✅,57,TechNet Live (Danmark),0464x,
+0463,0081,0463_w.asf,,✅,✅,453,,✅,✅,✅,57,TechNet Live (Danmark),0463 Client Management and deployment -Softgrid,
+0464,0081,0464_w.asf,,✅,✅,454,,✅,✅,✅,57,TechNet Live (Danmark),,
 0465,0081,0465_w.asf,,✅,✅,455,,✅,✅,✅,57,TechNet Live (Danmark),Desktop sikkerhet,
-0466,0081,0466_w.asf,,✅,✅,456,,✅,✅,✅,57,TechNet Live (Danmark),0466x,
-0467,0081,0467_w.asf,,✅,✅,457,,✅,✅,✅,57,TechNet Live (Danmark),0467x,
+0466,0081,0466_w.asf,,✅,✅,456,,✅,✅,✅,57,TechNet Live (Danmark),,
+0467,0081,0467_w.asf,,✅,✅,457,,✅,✅,✅,57,TechNet Live (Danmark),,
 0468,0082,0468_w.asf,,✅,✅,458,,✅,✅,✅,58,Windows Small Business Server 2003 R2,,
 0469,0082,0469_w.asf,,✅,✅,459,,✅,✅,✅,58,Windows Small Business Server 2003 R2,,
 0470,0083,0470_w.asf,,✅,✅,460,,✅,✅,✅,59,Vecerní Univerzita,,
@@ -697,9 +697,9 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0696,0101,0696_w.asf,,✅,✅,686,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Craig van Zeyl_finalx,
 0697,0101,0697_w.asf,,✅,✅,687,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,BizTalk Final,
 0698,0101,0698_w.asf,,✅,✅,688,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,BizTalk Final,
-0699,0099,0699_w.asf,, , ,689,,✅,✅, ,0,Featured Events,MIX07 Keynote: Pushing the Envelope of What's Possible on the Web Today,Ray Ozzie
-0700,0099,0700_w.asf,, , ,690,,✅,✅, ,0,Featured Events,WinHEC 2007 Keynote: Windows Platform Innovations for Today and Tommorrow,Bill Gates
-0701,0099,0701_w.asf,, , ,691,,✅,✅, ,77,Documentaries,Behind the Code,Anders Hejlsberg
+0699,0099,0699_w.asf,, , ,689,,✅,✅,,666,MIX 2007 Keynote,MIX07 Keynote: Pushing the Envelope of What's Possible on the Web Today,Ray Ozzie
+0700,0099,0700_w.asf,, , ,690,,✅,✅,,75,WinHEC 2007,WinHEC 2007 Keynote: Windows Platform Innovations for Today and Tommorrow,Bill Gates
+0701,0099,0701_w.asf,, , ,691,,✅,✅,,77,Documentaries,Behind the Code,Anders Hejlsberg
 0702,0102,0702_w.asf,,✅,✅,692,high,✅,✅,✅,79,MMS Roadshow 2007,,
 0703,0102,0703_w.asf,,✅,✅,693,high,✅,✅,✅,79,MMS Roadshow 2007,,
 0704,0102,0704_w.asf,,✅,✅,694,high,✅,✅,✅,79,MMS Roadshow 2007,,
@@ -999,7 +999,7 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0998,0126,0998_w.asf,,,,998,high,✅,✅,✅,104,TechEd North America 2008 - IT Professionals,Windows Server 2008 Hyper-V: Scripting and Programmatic Management for Fun and Profit (VBS and PowerShell),"Alexander Lash, John Kelbley"
 0999,0126,0999_w.asf,,,,999,high,✅,✅,✅,104,TechEd North America 2008 - IT Professionals,Deploying Windows Server 2008 Hyper-V and Microsoft System Center Virtual Machine Manager: Best Practices,"Allen Stewart, Edwin Yuen"
 1000,0126,1000_w.asf,,,,1000,high,✅,✅,✅,104,TechEd North America 2008 - IT Professionals,"Windows Server 2008 Hyper-V Architecture, Scenarios, and Networking","Jeff Woolsey, Mike Sterling"
-7777,7777,7777b_w.asf,,,✅,,,,,,0,Featured Events,Ready to Rock Launch Keynote: The Microsoft Application Platform,Steve Ballmer
-8888,8888,8888c_w.asf,,✅,✅,,,,,,0,Featured Events,Windows Vista User Experience Enhancements,"Aaron Woodman, Joe Belfiore"
-8889,8889,8889_w.asf,,✅,✅,,,,,,0,Featured Events,Business and IT Value of Migrating to Windows Vista,Chris Jones
+7777,7777,7777b_w.asf,,,✅,,,,,,777,Ready to Rock Launch,Ready to Rock Launch Keynote: The Microsoft Application Platform,Steve Ballmer
+8888,8888,8888c_w.asf,,✅,✅,,,,,,888,Windows Vista Demos,Windows Vista User Experience Enhancements,"Aaron Woodman, Joe Belfiore"
+8889,8889,8889_w.asf,,✅,✅,,,,,,888,Windows Vista Demos,Business and IT Value of Migrating to Windows Vista,Chris Jones
 9999,9999,9999c_w.asf,,✅,✅,9999,hd,✅,✅,✅,66,Lighter Side of IT,Microsoft WSYP Project: Leverage Customer Feedback for Software Quality,Mauro Meanti

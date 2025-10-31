@@ -121,12 +121,12 @@ foreach (var evt in events)
             }
             eventHtml.WriteLine($"<span>Speaker(s): {video.Speakers}</span>");
 
-            //if (!string.IsNullOrEmpty(video.Asf))
-            //{
-            //    eventHtml.WriteLine("<div>Streaming: ");
-            //    eventHtml.WriteLine($"<a href='mms://microsofttech.fr.edgesuite.net/msexp/msexp/E{video.EId}/{video.Asf}' target='_blank'>ASF</a>(SD)");
-            //    eventHtml.WriteLine("</div>");
-            //}
+            if (!string.IsNullOrEmpty(video.Asf))
+            {
+                eventHtml.WriteLine("<div>Streaming: ");
+                eventHtml.WriteLine($"<a href='mms://microsofttech.fr.edgesuite.net/msexp/msexp/E{video.EId}/{video.Asf}' target='_blank'>SDVideo</a>(ASF)");
+                eventHtml.WriteLine("</div>");
+            }
 
             eventHtml.WriteLine("<div>Downloads: ");
             if (!string.IsNullOrEmpty(video.Asf))
