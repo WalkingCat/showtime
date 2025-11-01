@@ -106,17 +106,17 @@ foreach (var evt in events)
             eventHtml.WriteLine($"<div class='video-title'>{(string.IsNullOrEmpty(video.Title) ? "(Unknown Title)" : video.Title)}</div>");
             if (video.SlThumbnail)
             {
-                DownloadFile($"http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/home/video{video.SlId}.jpg", $"../docs/images/video_thumb_{video.Id}.jpg");
+                DownloadFile($"https://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/home/video{video.SlId}.jpg", $"../docs/images/video_thumb_{video.Id}.jpg");
                 eventHtml.WriteLine($"<img src='{(video.SlThumbnail ? $"./images/video_thumb_{video.Id}.jpg" : "")}' class='video-thumb{(video.SlThumbnail ? "" : " broken")}'/>");
             }
             if (video.SlSlides)
             {
-                DownloadFile($"http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/ppt/{video.SlId}/Diapositive1.jpg", $"../docs/images/video_slide_{video.Id}.jpg");
+                DownloadFile($"https://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/ppt/{video.SlId}/Diapositive1.jpg", $"../docs/images/video_slide_{video.Id}.jpg");
                 eventHtml.WriteLine($"<img src='./images/video_slide_{video.Id}.jpg' class='video-slide'>");
             }
             else if (video.StSlides)
             {
-                DownloadFile($"http://microsofttech.fr.edgesuite.net/msexp/pictures/images_ppt/{video.Id}/Diapositive1.jpg", $"../docs/images/video_slide_{video.Id}.jpg");
+                DownloadFile($"https://microsofttech.fr.edgesuite.net/msexp/pictures/images_ppt/{video.Id}/Diapositive1.jpg", $"../docs/images/video_slide_{video.Id}.jpg");
                 eventHtml.WriteLine($"<img src='./images/video_slide_{video.Id}.jpg' class='video-slide'>");
             }
             eventHtml.WriteLine($"<span>Speaker(s): {video.Speakers}</span>");
@@ -124,7 +124,7 @@ foreach (var evt in events)
             if (!string.IsNullOrEmpty(video.Asf))
             {
                 eventHtml.WriteLine("<div>Streaming: ");
-                eventHtml.WriteLine($"<a href='mms://microsofttech.fr.edgesuite.net/msexp/msexp/E{video.EId}/{video.Asf}' target='_blank'>SDVideo</a>(ASF)");
+                eventHtml.WriteLine($"<a href='mms://microsofttech.fr.edgesuite.net/msexp/msexp/E{video.EId}/{video.Asf}'>SDVideo</a>(ASF)");
                 eventHtml.WriteLine("</div>");
             }
 
@@ -135,19 +135,19 @@ foreach (var evt in events)
             }
             if (!string.IsNullOrEmpty(video.SlWmv))
             {
-                eventHtml.WriteLine($"<a href='http://microsofttech.fr.edgesuite.net/msexp/download/spotlight/{video.SlId}/{video.SlId}_{video.SlWmv}.zip' target='_blank'>HDVideo</a>(WMV)");
+                eventHtml.WriteLine($"<a href='https://microsofttech.fr.edgesuite.net/msexp/download/spotlight/{video.SlId}/{video.SlId}_{video.SlWmv}.zip' target='_blank'>HDVideo</a>(WMV)");
             }
             else if (!string.IsNullOrEmpty(video.StWmv))
             {
-                eventHtml.WriteLine($"<a href='http://microsofttech.fr.edgesuite.net/msexp/download/{video.Id}/{video.Id}_{video.StWmv}.zip' target='_blank'>HDVideo</a>(WMV)");
+                eventHtml.WriteLine($"<a href='https://microsofttech.fr.edgesuite.net/msexp/download/{video.Id}/{video.Id}_{video.StWmv}.zip' target='_blank'>HDVideo</a>(WMV)");
             }
             if (video.SlSlidesZip)
             {
-                eventHtml.WriteLine($"<a href='http://microsofttech.fr.edgesuite.net/msexp/download/spotlight/{video.SlId}/{video.SlId}_pres.zip' target='_blank'>Slides</a><br clear='right'/>");
+                eventHtml.WriteLine($"<a href='https://microsofttech.fr.edgesuite.net/msexp/download/spotlight/{video.SlId}/{video.SlId}_pres.zip' target='_blank'>Slides</a><br clear='right'/>");
             }
             else if (video.StSlidesZip)
             {
-                eventHtml.WriteLine($"<a href='http://microsofttech.fr.edgesuite.net/msexp/download/{video.Id}/{video.Id}_pres.zip' target='_blank'>Slides</a>");
+                eventHtml.WriteLine($"<a href='https://microsofttech.fr.edgesuite.net/msexp/download/{video.Id}/{video.Id}_pres.zip' target='_blank'>Slides</a>");
             }
             eventHtml.WriteLine("</div><br clear='right'/>");
             eventHtml.WriteLine("</div>"); // video
