@@ -1,11 +1,10 @@
 Id,Featured,Title,Region,Logo
-,,,,
 1,✅,IT Forum 2004,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/ITF04_logo.png
 ,,Managing Dynamic Storage Services - Lessons Learned ,,
 ,,Microsoft Identity Management Strategy and Roadmap,,
 ,,In-depth Look at Client Security Enhancements in Windows XP SP 2,,
 5,,Briefing Grands Comptes 2005,France,
-6,✅,Tech.Ed 2005,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/Tech_Ed_2005_logo.png
+6,✅,TechEd 2005,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/Tech_Ed_2005_logo.png
 7,,SBS 2003 vs Linux,,
 8,✅,SQL PASS 2005,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/SQL_Pass_logo.png
 9,,Best of Microsoft Management Summit 2005,United Kingdom,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/mms05_logo.png
@@ -19,7 +18,7 @@ Id,Featured,Title,Region,Logo
 17,,Security Seminar,Australia,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/Security_seminar_logo.png
 18,,Briefing Grands Comptes 2006,France,
 19,,Technical Summit Tour,Germany,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technical_summit_logo.png
-20,✅,TechNet IT Forum 2005 - Highlights,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/IT_Forum2005_Highlights.png
+20,,TechNet IT Forum 2005 - Highlights,United Kingdom,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/IT_Forum2005_Highlights.png
 21,✅,Windows Kernel Internals,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/kernel_internals_logo.png
 22,,TechNet Videos - Webcasts 2006,Germany,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/logo_technet.png
 23,,Reality Bytes Broadcasting,Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/rbb_logo.png
@@ -47,7 +46,7 @@ Id,Featured,Title,Region,Logo
 46,,TechNet/MSDN Najaar 2006,Netherlands,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/technet_msdn_briefing_logo.png
 47,,Ready for a New Day,Belgium,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/logo_grfand.png
 48,,Ready for a New Day,Spain,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/logo_ppund.png
-49,✅,TechEd: IT Forum 2006,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/TechEd_IT_Forum2006.png
+49,✅,TechEd IT Forum 2006,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/TechEd_IT_Forum2006.png
 50,,Briefing Grands Comptes 2006 - Spéciale Lancement,France,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/logo_bgc06.png
 51,,Office Day,Germany,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/office_day_logo.png
 52,,Windows Vista & IE Readiness Tour,,http://microsofttech.fr.edgesuite.net/msexp/pictures/spotlight/event/Vista_and_IE_tour_logo.png

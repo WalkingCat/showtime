@@ -42,8 +42,8 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0041,,,,,,,,,,,,,,
 0042,,,,,,,,,,,,,,
 0043,0005,0043_w.asf,hd,✅,✅,23,hd,✅,✅,✅,1,IT Forum 2004,Digital Trust - Goals and Obstacles,Rafal Lukawiecki
-0044,0033,0044_w.asf,hd,✅,✅,29,hd,✅,✅,✅,6,Tech.Ed 2005,SQL Server 2005: Index Creation Best Practices,Kimberly L. Tripp
-0045,0033,0045_w.asf,hd,✅,✅,30,hd,✅,✅,✅,6,Tech.Ed 2005,SQL Server 2005: Index Maintenance Best Practices,Kimberly L. Tripp
+0044,0033,0044_w.asf,hd,✅,✅,29,hd,✅,✅,✅,6,TechEd 2005,SQL Server 2005: Index Creation Best Practices,Kimberly L. Tripp
+0045,0033,0045_w.asf,hd,✅,✅,30,hd,✅,✅,✅,6,TechEd 2005,SQL Server 2005: Index Maintenance Best Practices,Kimberly L. Tripp
 0046,0031,0046_w.asf,, , ,,,,,,5,Briefing Grands Comptes 2005,,
 0047,0031,0047_w.asf,hd,✅,✅,33,,,,,5,Briefing Grands Comptes 2005,Windows Server,"Pierre Bugnon, Stéphane Sabbague"
 0048,0031,0048_w.asf,hd,✅,✅,34,,,,,5,Briefing Grands Comptes 2005,Applications d'infrastructures,Pascal Paré
@@ -56,20 +56,20 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0055,0031,0055_w.asf,hd,✅,✅,41,,,,,5,Briefing Grands Comptes 2005,SQL Server 2005 et XML,Pascal Paré
 0056,0031,0056_w.asf,hd,✅,✅,42,,,,,5,Briefing Grands Comptes 2005,Déploiement des Postes de Travail avec « Zero Touch »,"Pierre Bugnon, Stéphane Sabbague"
 0057,0031,0057_w.asf,hd,✅,✅,43,,,,,5,Briefing Grands Comptes 2005,Évolutions de Windows Server 2003,"Pierre Bugnon, Stéphane Sabbague"
-0058,0034,0058_w.asf,hd,✅,✅,44,hd,✅,✅,✅,6,Tech.Ed 2005,Linux and Open Source Software  A Technical Perspective and Overview,Bill Hilf
-0059,0034,0059_w.asf,hd,✅,✅,45,hd,✅,✅,✅,6,Tech.Ed 2005,Reduce IT Complexity Using Windows Server System Products,Bill Hilf
-0060,0033,0060_w.asf,hd,✅,✅,57,hd,✅,✅,✅,6,Tech.Ed 2005,SQL Server 2005 VLDB Availability and Recovery Strategies,Kimberly L. Tripp
+0058,0034,0058_w.asf,hd,✅,✅,44,hd,✅,✅,✅,6,TechEd 2005,Linux and Open Source Software  A Technical Perspective and Overview,Bill Hilf
+0059,0034,0059_w.asf,hd,✅,✅,45,hd,✅,✅,✅,6,TechEd 2005,Reduce IT Complexity Using Windows Server System Products,Bill Hilf
+0060,0033,0060_w.asf,hd,✅,✅,57,hd,✅,✅,✅,6,TechEd 2005,SQL Server 2005 VLDB Availability and Recovery Strategies,Kimberly L. Tripp
 0061,0035,0061_w.asf,hd,✅,✅,58,,,,,7,SBS 2003 vs Linux,Firewall Security: Microsoft - Linux,Martijn Bellaard
 0062,0035,0062_w.asf,hd,✅,✅,59,,,,,7,SBS 2003 vs Linux,Small Business Server 2003 - Linux,Martijn Bellaard
 0063,0036,0063a_w.asf,hd,✅,✅,51,hd,✅,✅,✅,8,SQL PASS 2005,Keynote: SQL Server 2005,Bill Baker
 0064,0036,0064_w.asf,hd,✅,✅,50,hd,✅,✅,✅,8,SQL PASS 2005,Keynote: What's Next for Database? ,Jim Gray
 0065,0036,0065b_w.asf,hd,✅,✅,52,hd,✅,✅,✅,8,SQL PASS 2005,Data Mining with SQL Sever 2005,Jamie MacLennan
 0066,0036,0066b_w.asf,hd,✅,✅,53,hd,✅,✅,✅,8,SQL PASS 2005,SQL Server 2005 OS Foundation Elements,Bob Dorr
-0067,0036,0067_w.asf,hd,✅,✅,63,,,,,9,Microsoft Management Summit 2005,Dynamic Services Initiative: Drilldown,Michael Emanuel
-0068,0037,0068_w.asf,hd,✅,✅,60,,,,,9,Microsoft Management Summit 2005,Dynamic Services Initiative,Kirill Tatarinov
-0069,0037,0069b_w.asf,hd,✅,✅,62,hd,✅,✅,✅,9,Microsoft Management Summit 2005,System Management Server 2003: Technical Drilldown,Bill Anderson
-0070,0037,0070_w.asf,hd,✅,✅,61,hd,✅,✅,✅,9,Microsoft Management Summit 2005,"Microsoft Operations Server 2003: Technical Drilldown, Part 1",Vlad Joanovic
-0071,0037,0071_w.asf,hd,✅,✅,65,hd,✅,✅,✅,9,Microsoft Management Summit 2005,"Microsoft Operations Server 2003: Technical Drilldown, Part 2",Vlad Joanovic
+0067,0036,0067_w.asf,hd,✅,✅,63,,,,,9,Best of Microsoft Management Summit 2005,Dynamic Services Initiative: Drilldown,Michael Emanuel
+0068,0037,0068_w.asf,hd,✅,✅,60,,,,,9,Best of Microsoft Management Summit 2005,Dynamic Services Initiative,Kirill Tatarinov
+0069,0037,0069b_w.asf,hd,✅,✅,62,hd,✅,✅,✅,9,Best of Microsoft Management Summit 2005,System Management Server 2003: Technical Drilldown,Bill Anderson
+0070,0037,0070_w.asf,hd,✅,✅,61,hd,✅,✅,✅,9,Best of Microsoft Management Summit 2005,"Microsoft Operations Server 2003: Technical Drilldown, Part 1",Vlad Joanovic
+0071,0037,0071_w.asf,hd,✅,✅,65,hd,✅,✅,✅,9,Best of Microsoft Management Summit 2005,"Microsoft Operations Server 2003: Technical Drilldown, Part 2",Vlad Joanovic
 0072,0036,0072a_w.asf,hd,✅,✅,54,hd,✅,✅,✅,8,SQL PASS 2005,Best Practices for Upgrading to SQL Server 2005,Michael Raheem
 0073,0038,0073_w.asf,,✅,✅,55,,✅,✅,✅,21,Windows Kernel Internals,"Process and Thread Troubleshooting, Part 1",David Solomon
 0074,0038,0074_w.asf,,✅,✅,56,,✅,✅,✅,21,Windows Kernel Internals,"Process and Thread Troubleshooting, Part 2",David Solomon
@@ -163,12 +163,12 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0162,0050,0162_w.asf,,✅,✅,152,,✅,✅,✅,23,Reality Bytes Broadcasting,Beheer van de Microsoft Exchange Server Omgeving,Steven van Houttum
 0163,0050,0163_w.asf,,✅,✅,153,,✅,✅,✅,23,Reality Bytes Broadcasting,Windows Workflow Foundation,Dennis Mulder
 0164,0050,0164_w.asf,,✅,✅,154,,✅,✅,✅,23,Reality Bytes Broadcasting,BizTalk 2006,Erik Oppedijk
-0165,0053,0165_w.asf,,✅,✅,155,,✅,✅,✅,24,Ready To Rock - The Tech Days,Acesso ao Exchange Server através do Seu Dispositivo Móvel,Scott Schnoll
-0166,0053,0166_w.asf,,✅,✅,156,,✅,✅,✅,24,Ready To Rock - The Tech Days,Exchange Server: Presente e Futuro,"Miguel Teixeira, Troy Zaboukos"
-0167,0053,0167_w.asf,,✅,✅,157,,✅,✅,✅,24,Ready To Rock - The Tech Days,Virtual Server e o Futuro da Virtualização no Windows,"Luis Caldeira, Virgílio Ribeiro"
-0168,0053,0168_w.asf,,✅,✅,158,,✅,✅,✅,24,Ready To Rock - The Tech Days,Appliance ISA: Quebrar o Mito da Firewall Tradicional,Luís Carvalho
-0169,0051,0169_w.asf,,✅,✅,159,,✅,✅,✅,24,Ready To Rock - The Tech Days,Linux e Open Source: Visão Geral e Perspectiva Técnica,Marcos Santos
-0170,0051,0170_w.asf,,✅,✅,160,,✅,✅,✅,24,Ready To Rock - The Tech Days,Boas Práticas na Criação de Índices com o SQL Server 2005,Miguel Barros
+0165,0053,0165_w.asf,,✅,✅,155,,✅,✅,✅,24,Ready to Rock - The Tech Days,Acesso ao Exchange Server através do Seu Dispositivo Móvel,Scott Schnoll
+0166,0053,0166_w.asf,,✅,✅,156,,✅,✅,✅,24,Ready to Rock - The Tech Days,Exchange Server: Presente e Futuro,"Miguel Teixeira, Troy Zaboukos"
+0167,0053,0167_w.asf,,✅,✅,157,,✅,✅,✅,24,Ready to Rock - The Tech Days,Virtual Server e o Futuro da Virtualização no Windows,"Luis Caldeira, Virgílio Ribeiro"
+0168,0053,0168_w.asf,,✅,✅,158,,✅,✅,✅,24,Ready to Rock - The Tech Days,Appliance ISA: Quebrar o Mito da Firewall Tradicional,Luís Carvalho
+0169,0051,0169_w.asf,,✅,✅,159,,✅,✅,✅,24,Ready to Rock - The Tech Days,Linux e Open Source: Visão Geral e Perspectiva Técnica,Marcos Santos
+0170,0051,0170_w.asf,,✅,✅,160,,✅,✅,✅,24,Ready to Rock - The Tech Days,Boas Práticas na Criação de Índices com o SQL Server 2005,Miguel Barros
 0171,0051,0171_w.asf,,✅,✅,161,,✅,✅,✅,25,WinHEC 2006,Keynote: Advancing the Platform,Bill Gates
 0172,0051,0172_w.asf,,✅,✅,162,,✅,✅, ,25,WinHEC 2006,Keynote: The Platform for PC Innovation,Will Poole
 0173,0051,0173_w.asf,,✅,✅,163,,✅,✅,✅,25,WinHEC 2006,Keynote: Winning with Windows Server,Bob Muglia
@@ -232,8 +232,8 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0231,0056,0231_w.asf,,✅,✅,221,,✅,✅,✅,28,Tech.Ed US 2006,Troubleshooting Group Policy,Derek Melber
 0232,0056,0232_w.asf,,✅,✅,222,,✅,✅,✅,28,Tech.Ed US 2006,Group Policy: What's New in Windows Vista,Mark Williams
 0233,0056,0233_w.asf,,✅,✅,223,,✅,✅,✅,28,Tech.Ed US 2006,Windows Vista System Integrity Technologies,Steve Riley
-0234,0051,0234_w.asf,, ,✅,224,,✅,✅, ,24,Ready To Rock - The Tech Days,SQL Server 2005 Security,Rafal Lukawiecki
-0235,0051,0235_w.asf,,✅,✅,225,,✅,✅,✅,24,Ready To Rock - The Tech Days,Boas Práticas: Arquitectura e Implementação de Systems Management Server (SMS) 2003 SP1,Nino Torres
+0234,0051,0234_w.asf,, ,✅,224,,✅,✅, ,24,Ready to Rock - The Tech Days,SQL Server 2005 Security,Rafal Lukawiecki
+0235,0051,0235_w.asf,,✅,✅,225,,✅,✅,✅,24,Ready to Rock - The Tech Days,Boas Práticas: Arquitectura e Implementação de Systems Management Server (SMS) 2003 SP1,Nino Torres
 0236,0057,0236_w.asf,,✅,✅,226,,✅,✅,✅,30,TechNet Security Workshop VI,"Certificati digitali? Cosa sono, come funzionano, come si ottengono",Piergiorgio Malusardi
 0237,0057,0237_w.asf,,✅,✅,227,,✅,✅,✅,30,TechNet Security Workshop VI,Certification Authority,Fabrizio Grossi
 0238,0057,0238_w.asf,,✅,✅,228,,✅,✅,✅,30,TechNet Security Workshop VI,Gestione del ciclo di vita dei certificati,Piergiorgio Malusardi
@@ -311,11 +311,11 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0310,0067,0310_w.asf,,✅,✅,300,,✅,✅,✅,43,"TechNet Konference, Podzim 2006",Xbox 360 - Nová Cool Herní Konzola,Lukáš Zima
 0311,0067,0311_w.asf,,✅,✅,301,,✅,✅,✅,43,"TechNet Konference, Podzim 2006",Windows Vista Live,Martin Žugec
 0312,0068,0312_w.asf,,✅,✅,302,,✅,✅,✅,44,TechEd Developers,Tech Ed: Developers - Viral Marketing Video,Tech Ed Developers
-0313,0069,0313_w.asf,,✅,✅,303,,✅,✅,✅,45,Microsoft Management Summit 2006 ,Keynote: Manage Complexity Achieve Agility with System Center,Tim Sinclair
-0314,0069,0314_w.asf,,✅,✅,304,,✅,✅,✅,45,Microsoft Management Summit 2006 ,MOM 2005 and System Center Operations Manager 2007 Technical Drilldown,Vladimir Joanovic
-0315,0069,0315_w.asf,,✅,✅,305,,✅,✅,✅,45,Microsoft Management Summit 2006 ,SMS 2003 R2 and System Center Configuration Manager 2007,Walter Mead
-0316,0069,0316_w.asf,,✅,✅,306,,✅,✅,✅,45,Microsoft Management Summit 2006 ,Operations Management with System Center Products,Vladimir Joanovic
-0317,0069,0317_w.asf,,✅,✅,307,,✅,✅,✅,45,Microsoft Management Summit 2006 ,Windows Management Technologies in Vista and Beyond,Walter Mead
+0313,0069,0313_w.asf,,✅,✅,303,,✅,✅,✅,45,Best of Microsoft Management Summit 2006,Keynote: Manage Complexity Achieve Agility with System Center,Tim Sinclair
+0314,0069,0314_w.asf,,✅,✅,304,,✅,✅,✅,45,Best of Microsoft Management Summit 2006,MOM 2005 and System Center Operations Manager 2007 Technical Drilldown,Vladimir Joanovic
+0315,0069,0315_w.asf,,✅,✅,305,,✅,✅,✅,45,Best of Microsoft Management Summit 2006,SMS 2003 R2 and System Center Configuration Manager 2007,Walter Mead
+0316,0069,0316_w.asf,,✅,✅,306,,✅,✅,✅,45,Best of Microsoft Management Summit 2006,Operations Management with System Center Products,Vladimir Joanovic
+0317,0069,0317_w.asf,,✅,✅,307,,✅,✅,✅,45,Best of Microsoft Management Summit 2006,Windows Management Technologies in Vista and Beyond,Walter Mead
 0318,0070,0318_w.asf,,✅,✅,308,,✅,✅,✅,46,TechNet/MSDN Najaar 2006,Keynote - Vista-Office-Exchange Thema,"Tony Krijnen,Daniel van Soest"
 0319,0070,0319_w.asf,,✅,✅,309,,✅,✅,✅,46,TechNet/MSDN Najaar 2006,"Windows Vista, 2007 Office System en Business Desktop Deployment (BDD) 2007",Daniel van Soest
 0320,0070,0320_w.asf,,✅,✅,310,,✅,✅,✅,46,TechNet/MSDN Najaar 2006,"Microsoft Exchange Server 2007, Wat is er Nieuw?",Steven van Houttum
@@ -342,36 +342,36 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0341,0068,0341_w.asf,,✅,✅,331,,✅,✅,✅,44,TechEd Developers,AJAX Patterns with the Microsoft AJAX Library,Jeff Prosise
 0342,0068,0342_w.asf,,✅,✅,332,,✅,✅,✅,44,TechEd Developers,Getting the Most out of Window Forms and Windows Presentation Foundation (WPF),Brad Abrams
 0343,0068,0343_w.asf,, ,✅,333,,✅,✅, ,44,TechEd Developers,"Keynote: Windows Vista, the 2007 Office System and Ajax",Eric Rudder
-0344,0072,0344d_w.asf,, ,✅,334,,✅,✅, ,49,Tech.Ed: IT Forum 2006,Are You Driving or Being Driven?,Tim Hynes
-0345,0072,0345_w.asf,,✅,✅,335,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Software for the 21st Century,Andrew Herbert
-0346,0072,0346_w.asf,,✅,✅,336,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Microsoft.com Operations - Solutions for Highly Available and Secure Web Sites,"Paul Wright, Chad Kraykovic "
-0347,0072,0347_w.asf,, ,✅,337,,✅,✅, ,49,Tech.Ed: IT Forum 2006,An Overview of Microsoft's Vision for Virtualization,Rajiv Arunkundram
-0348,0072,0348_w.asf,, ,✅,338,,✅,✅, ,49,Tech.Ed: IT Forum 2006,Keynote: Enabling the People-Ready Business,Bob Muglia
-0349,0072,0349_w.asf,hd,✅,✅,339,hd,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Defending Layer 8: How to Recognize and Combat Social Engineering,Steve Riley
-0350,0072,0350e_w.asf,,✅,✅,340,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Windows Vista Kernel Changes,Mark Russinovich
-0351,0072,0351_w.asf,,✅,✅,341,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Office SharePoint 2007 Management,Joel Oleson
-0352,0072,0352b_w.asf,,✅,✅,342,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,MS IT: Active Directory (AD) and Active Directory Application Mode (ADAM) in the Extranet,Brian Puhl
-0353,0072,0353_w.asf,,✅,✅,343,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Transitioning to Windows Server Virtualization,Mark Kieffer
-0354,0072,0354_w.asf,, ,✅,344,,✅,✅, ,49,Tech.Ed: IT Forum 2006,Windows Server 'Longhorn' and Windows Vista 'Better Together' Technologies ,Julius Sinkevicius
-0355,0072,0355_w.asf,,✅,✅,345,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Client Monitoring with System Center Operations Manager 2007,Dhananjay Mahajan
-0356,0072,0356e_w.asf,,✅,✅,346,high,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Advanced Windows Troubleshooting with Sysinternals Process Monitor,Mark Russinovich
-0357,0072,0357_w.asf,,✅,✅,347,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,"Microsoft, Open Source and Interoperability",Bill Hilf
-0358,0072,0358_w.asf,,✅,✅,348,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,How to Virtualize Infrastructure Workloads,Robert Larson
-0359,0072,0359_w.asf,,✅,✅,349,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Data Protection Manager v2 - First Look,Jason Buffington
-0360,0072,0360_w.asf,,✅,✅,350,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,"How Can you Deliver Mobile E-mail to over 40,000 Users with Exchange 2003 and Windows Mobile Devices?",Jason Langridge
-0361,0072,0361a_w.asf,,✅,✅,351,high,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Knowing the Enemy - A Lightning Demonstration on How Hackers Attack Networks,Marcus Murray
-0362,0072,0362_w.asf,, ,✅,352,,✅,✅, ,49,Tech.Ed: IT Forum 2006,Windows Vista Firewall and IPSec Enhancements,Steve Riley
-0363,0072,0363_w.asf,,✅,✅,353,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Windows Storage Server 2003 R2 and the New Microsoft iSCSI Target Application Pack: Extending and Unifying Storage Management Protocols,François-Manuel Billault
+0344,0072,0344d_w.asf,, ,✅,334,,✅,✅, ,49,TechEd IT Forum 2006,Are You Driving or Being Driven?,Tim Hynes
+0345,0072,0345_w.asf,,✅,✅,335,,✅,✅,✅,49,TechEd IT Forum 2006,Software for the 21st Century,Andrew Herbert
+0346,0072,0346_w.asf,,✅,✅,336,,✅,✅,✅,49,TechEd IT Forum 2006,Microsoft.com Operations - Solutions for Highly Available and Secure Web Sites,"Paul Wright, Chad Kraykovic "
+0347,0072,0347_w.asf,, ,✅,337,,✅,✅, ,49,TechEd IT Forum 2006,An Overview of Microsoft's Vision for Virtualization,Rajiv Arunkundram
+0348,0072,0348_w.asf,, ,✅,338,,✅,✅, ,49,TechEd IT Forum 2006,Keynote: Enabling the People-Ready Business,Bob Muglia
+0349,0072,0349_w.asf,hd,✅,✅,339,hd,✅,✅,✅,49,TechEd IT Forum 2006,Defending Layer 8: How to Recognize and Combat Social Engineering,Steve Riley
+0350,0072,0350e_w.asf,,✅,✅,340,,✅,✅,✅,49,TechEd IT Forum 2006,Windows Vista Kernel Changes,Mark Russinovich
+0351,0072,0351_w.asf,,✅,✅,341,,✅,✅,✅,49,TechEd IT Forum 2006,Office SharePoint 2007 Management,Joel Oleson
+0352,0072,0352b_w.asf,,✅,✅,342,,✅,✅,✅,49,TechEd IT Forum 2006,MS IT: Active Directory (AD) and Active Directory Application Mode (ADAM) in the Extranet,Brian Puhl
+0353,0072,0353_w.asf,,✅,✅,343,,✅,✅,✅,49,TechEd IT Forum 2006,Transitioning to Windows Server Virtualization,Mark Kieffer
+0354,0072,0354_w.asf,, ,✅,344,,✅,✅, ,49,TechEd IT Forum 2006,Windows Server 'Longhorn' and Windows Vista 'Better Together' Technologies ,Julius Sinkevicius
+0355,0072,0355_w.asf,,✅,✅,345,,✅,✅,✅,49,TechEd IT Forum 2006,Client Monitoring with System Center Operations Manager 2007,Dhananjay Mahajan
+0356,0072,0356e_w.asf,,✅,✅,346,high,✅,✅,✅,49,TechEd IT Forum 2006,Advanced Windows Troubleshooting with Sysinternals Process Monitor,Mark Russinovich
+0357,0072,0357_w.asf,,✅,✅,347,,✅,✅,✅,49,TechEd IT Forum 2006,"Microsoft, Open Source and Interoperability",Bill Hilf
+0358,0072,0358_w.asf,,✅,✅,348,,✅,✅,✅,49,TechEd IT Forum 2006,How to Virtualize Infrastructure Workloads,Robert Larson
+0359,0072,0359_w.asf,,✅,✅,349,,✅,✅,✅,49,TechEd IT Forum 2006,Data Protection Manager v2 - First Look,Jason Buffington
+0360,0072,0360_w.asf,,✅,✅,350,,✅,✅,✅,49,TechEd IT Forum 2006,"How Can you Deliver Mobile E-mail to over 40,000 Users with Exchange 2003 and Windows Mobile Devices?",Jason Langridge
+0361,0072,0361a_w.asf,,✅,✅,351,high,✅,✅,✅,49,TechEd IT Forum 2006,Knowing the Enemy - A Lightning Demonstration on How Hackers Attack Networks,Marcus Murray
+0362,0072,0362_w.asf,, ,✅,352,,✅,✅, ,49,TechEd IT Forum 2006,Windows Vista Firewall and IPSec Enhancements,Steve Riley
+0363,0072,0363_w.asf,,✅,✅,353,,✅,✅,✅,49,TechEd IT Forum 2006,Windows Storage Server 2003 R2 and the New Microsoft iSCSI Target Application Pack: Extending and Unifying Storage Management Protocols,François-Manuel Billault
 0364,0071,0364_w.asf,,✅,✅,354,,✅,✅,✅,47,Ready for a New Day,Ready for a New Day,"Wim Van Winge, Carmen Du Bois"
 0365,0071,0365_w.asf,, ,✅,355,,✅,✅, ,47,Ready for a New Day,Optimizing Windows Vista and Office 2007 Deployments,David de Backer
 0366,0071,0366_w.asf,, ,✅,356,,✅,✅, ,47,Ready for a New Day,Managing Windows Vista and Office 2007,Erik de Bondt
 0367,0071,0367_w.asf,, ,✅,357,,✅,✅, ,47,Ready for a New Day,Securing Windows Vista,Arlindo Alves
 0368,0071,0368_w.asf,,✅,✅,358,,✅,✅,✅,47,Ready for a New Day,Closing Keynote: Innovating for Business Value,Bill Gates
-0369,0072,0369e_w.asf,,✅,✅,359,high,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Advanced Malware Cleaning,Mark Russinovich
-0370,0072,0370e_w.asf,,✅,✅,360,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Windows Vista User Account Control Internals,Mark Russinovich
-0371,0072,0371_w.asf,,✅,✅,361,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,Using Application Virtualization to Decrease Your Application Management TCO,"Bill Corrigan, Chad Jones"
-0372,0072,0372_w.asf,,✅,✅,362,,✅,✅,✅,49,Tech.Ed: IT Forum 2006,System Center Essentials: Management for the Midsize Businesses and Service Providers,David Mills
-0373,0072,0373_w.asf,, ,✅,363,,✅,✅, ,49,Tech.Ed: IT Forum 2006,Optimizing Your IT Infrastructure: Why It Matters and How to Achieve It,Tim Sinclair
+0369,0072,0369e_w.asf,,✅,✅,359,high,✅,✅,✅,49,TechEd IT Forum 2006,Advanced Malware Cleaning,Mark Russinovich
+0370,0072,0370e_w.asf,,✅,✅,360,,✅,✅,✅,49,TechEd IT Forum 2006,Windows Vista User Account Control Internals,Mark Russinovich
+0371,0072,0371_w.asf,,✅,✅,361,,✅,✅,✅,49,TechEd IT Forum 2006,Using Application Virtualization to Decrease Your Application Management TCO,"Bill Corrigan, Chad Jones"
+0372,0072,0372_w.asf,,✅,✅,362,,✅,✅,✅,49,TechEd IT Forum 2006,System Center Essentials: Management for the Midsize Businesses and Service Providers,David Mills
+0373,0072,0373_w.asf,, ,✅,363,,✅,✅, ,49,TechEd IT Forum 2006,Optimizing Your IT Infrastructure: Why It Matters and How to Achieve It,Tim Sinclair
 0374,0073,0374_w.asf,,✅,✅,364,,✅,✅,✅,50,Briefing Grands Comptes 2006 - Spéciale Lancement,Introduction: People Ready,"Philippe Ouensanga, Laurent Delaporte"
 0375,0073,0375_w.asf,, ,✅,365,,✅,✅, ,50,Briefing Grands Comptes 2006 - Spéciale Lancement,"L'intégration de la communication, l'accès à l'information et la collaboration",Yves Cazeau
 0376,0073,0376_w.asf,, ,✅,366,,✅,✅, ,50,Briefing Grands Comptes 2006 - Spéciale Lancement,Démonstration du Lancement,"Renaud Marcadet, Benjamin Nathan"
@@ -449,9 +449,9 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0448,0079,0448_w.asf,,✅,✅,438,,✅,✅,✅,56,BI Tour 2007,Enterprise Reporting with SQL Server Reporting Services,Marin Bezic
 0449,0079,0449_w.asf,,✅,✅,439,,✅,✅,✅,56,BI Tour 2007,Creating High Impact Data Warehouse - I,Marin Bezic
 0450,0079,0450_w.asf,,✅,✅,440,,✅,✅,✅,56,BI Tour 2007,Microsoft BI Overview,"Marin Bezic, Kristina Kerr"
-0451,0080,0451_w.asf,,✅,✅,441,,✅,✅,✅,55,Licencné Programy Spolocnosti Microsoft,,
-0452,0080,0452_w.asf,,✅,✅,442,,✅,✅,✅,55,Licencné Programy Spolocnosti Microsoft,,
-0453,0080,0453_w.asf,,✅,✅,443,,✅,✅,✅,55,Licencné Programy Spolocnosti Microsoft,,
+0451,0080,0451_w.asf,,✅,✅,441,,✅,✅,✅,55,Licencné Programy Spolocnosti Microsoft,Licencné Programy Spolocnosti Microsoft,Andrea Vlcková
+0452,0080,0452_w.asf,,✅,✅,442,,✅,✅,✅,55,Licencné Programy Spolocnosti Microsoft,Software Assurance,Andrea Vlcková
+0453,0080,0453_w.asf,,✅,✅,443,,✅,✅,✅,55,Licencné Programy Spolocnosti Microsoft,Casto Kladené Otázky,Andrea Vlcková
 0454,0081,0454_w.asf,,✅,✅,444,,✅,✅,✅,57,TechNet Live (Danmark),Jeff - System Center Keynote.pdf,
 0455,0081,0455_w.asf,,✅,✅,445,,✅,✅,✅,57,TechNet Live (Danmark),,
 0456,0081,0456_w.asf,,✅,✅,446,,✅,✅,✅,57,TechNet Live (Danmark),REMA 1000 Knudsen Consulting.pdf,
@@ -466,16 +466,16 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0465,0081,0465_w.asf,,✅,✅,455,,✅,✅,✅,57,TechNet Live (Danmark),Desktop sikkerhet,
 0466,0081,0466_w.asf,,✅,✅,456,,✅,✅,✅,57,TechNet Live (Danmark),,
 0467,0081,0467_w.asf,,✅,✅,457,,✅,✅,✅,57,TechNet Live (Danmark),,
-0468,0082,0468_w.asf,,✅,✅,458,,✅,✅,✅,58,Windows Small Business Server 2003 R2,,
-0469,0082,0469_w.asf,,✅,✅,459,,✅,✅,✅,58,Windows Small Business Server 2003 R2,,
-0470,0083,0470_w.asf,,✅,✅,460,,✅,✅,✅,59,Vecerní Univerzita,,
-0471,0083,0471_w.asf,,✅,✅,461,,✅,✅,✅,59,Vecerní Univerzita,,
-0472,0083,0472_w.asf,,✅,✅,462,,✅,✅,✅,59,Vecerní Univerzita,,
-0473,0083,0473_w.asf,,✅,✅,463,,✅,✅,✅,59,Vecerní Univerzita,,
+0468,0082,0468_w.asf,,✅,✅,458,,✅,✅,✅,58,Windows Small Business Server 2003 R2,Windows Small Business Server 2003 R2,Petr Šetka
+0469,0082,0469_w.asf,,✅,✅,459,,✅,✅,✅,58,Windows Small Business Server 2003 R2,Windows Small Business Server 2003 R2 - pokracování ukázky,Petr Šetka
+0470,0083,0470_w.asf,,✅,✅,460,,✅,✅,✅,59,Vecerní Univerzita,Vytváríme web aplikace snadno a rychle,Dalibor Kacmár
+0471,0083,0471_w.asf,,✅,✅,461,,✅,✅,✅,59,Vecerní Univerzita,Vytváríme web aplikace snadno a rychle - ukázka,Dalibor Kacmár
+0472,0083,0472_w.asf,,✅,✅,462,,✅,✅,✅,59,Vecerní Univerzita,Dynamické www stránky snadno & rychle & zadarmo pri výuce na strední škole,Vladimír Vána
+0473,0083,0473_w.asf,,✅,✅,463,,✅,✅,✅,59,Vecerní Univerzita,Projekt Tvorivý ucitel tvorivej informatiky,Eva Hlavatá
 0474,,,,,,464,,,,,,,,
 0475,0079,0475_w.asf,,✅,✅,465,,✅,✅,✅,56,BI Tour 2007,Creating High Impact Data Warehouse - II,Marin Bezic
-0476,0084,0476_w.asf,,✅,✅,466,,✅,✅,✅,64,Multilicenční Programy,0476 Enterprise,
-0477,0084,0477_w.asf,,✅,✅,467,,✅,✅,✅,64,Multilicenční Programy,0477 Select,
+0476,0084,0476_w.asf,,✅,✅,466,,✅,✅,✅,64,Multilicenční Programy,Multilicencní program Enterprise,Tereza Drmlová
+0477,0084,0477_w.asf,,✅,✅,467,,✅,✅,✅,64,Multilicenční Programy,Multilicencní program Select,Tereza Drmlová
 0478,0085,0478a_w.asf,,✅,✅,468,high,✅,✅,✅,61,Virtualization Tour,Microsoft Virtualisation: Today and Tomorrow,Ronald Beekelaar
 0479,0085,0479a_w.asf,,✅,✅,469,high,✅,✅,✅,61,Virtualization Tour,Managing a Mixed Virtual/Physical Environment: Tools and Techniques,Ronald Beekelaar
 0480,0085,0480a_w.asf,,✅,✅,470,high,✅,✅,✅,61,Virtualization Tour,Microsoft Virtualisation Deep Dive,Ronald Beekelaar
@@ -485,15 +485,15 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0484,0086,0484_w.asf,,✅,✅,474,high,✅,✅,✅,73,Building End-to-End Infrastructure Security,Locking Down Servers and Workstations,"John Craddock, Sally Storey"
 0485,0086,0485_w.asf,,✅,✅,475,high,✅,✅,✅,73,Building End-to-End Infrastructure Security,Vista Technologies,"John Craddock, Sally Storey"
 0486,,,,,,476,,,,,,,,
-0487,0087,0487a_w.asf,,✅,✅,477,high,✅,✅,✅,62,You're in Control,"You're in Control: Manage Complexity, Achieve Agility, Secure Your Environment",Bob Muglia
-0488,0087,0488a_w.asf,,✅,✅,478,high,✅,✅,✅,62,You're in Control,Anti-Malware Protection A Technical Deep-Dive into Forefront Client Security,"Brendan Foley, Anthony Chavez"
-0489,0087,0489a_w.asf,,✅,✅,479,high,✅,✅,✅,62,You're in Control,Managing Messaging and Collaboration System Threat Protection: A Technical Deep-Dive of Forefront Server Security,"Joe Licari, Neetu Rajpal"
-0490,0087,0490a_w.asf,,✅,✅,480,high,✅,✅,✅,62,You're in Control,Remote Access to Applications: A Technical Deep-Dive into Intelligent Application Gateway 2007,Uri Lichtenfeld
-0491,0087,0491a_w.asf,,✅,✅,481,high,✅,✅,✅,62,You're in Control,Network Edge Protection: A Technical Deep-Dive into Internet Security and Acceleration Server 2006,Kuleen Bharadwaj
-0492,0087,0492a_w.asf,,✅,✅,482,high,✅,✅,✅,62,You're in Control,End to End Service Management: Technical Best Practices with System Center Operations Manager 2007,Robert D. Reynolds
-0493,0087,0493a_w.asf,,✅,✅,483,high,✅,✅,✅,62,You're in Control,"Plan, Build, and Deploy: Technical Best Practices with SMS 2003 and System Center Configuration Manager 2007",Dan Ward
-0494,0087,0494_w.asf,,✅,✅,484,high,✅,✅,✅,62,You're in Control,Unified Management for Midsized Businesses: A Technical Overview of System Center Essentials 2007,David Mills
-0495,0087,0495_w.asf,,✅,✅,485,high,✅,✅,✅,62,You're in Control,"Data Back-up and Recovery for SQL, Exchange, and Vista Information: A Technical Overview of System Center Data Protection Manager",Jason Buffington
+0487,0087,0487a_w.asf,,✅,✅,477,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,"You're in Control: Manage Complexity, Achieve Agility, Secure Your Environment",Bob Muglia
+0488,0087,0488a_w.asf,,✅,✅,478,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,Anti-Malware Protection A Technical Deep-Dive into Forefront Client Security,"Brendan Foley, Anthony Chavez"
+0489,0087,0489a_w.asf,,✅,✅,479,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,Managing Messaging and Collaboration System Threat Protection: A Technical Deep-Dive of Forefront Server Security,"Joe Licari, Neetu Rajpal"
+0490,0087,0490a_w.asf,,✅,✅,480,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,Remote Access to Applications: A Technical Deep-Dive into Intelligent Application Gateway 2007,Uri Lichtenfeld
+0491,0087,0491a_w.asf,,✅,✅,481,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,Network Edge Protection: A Technical Deep-Dive into Internet Security and Acceleration Server 2006,Kuleen Bharadwaj
+0492,0087,0492a_w.asf,,✅,✅,482,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,End to End Service Management: Technical Best Practices with System Center Operations Manager 2007,Robert D. Reynolds
+0493,0087,0493a_w.asf,,✅,✅,483,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,"Plan, Build, and Deploy: Technical Best Practices with SMS 2003 and System Center Configuration Manager 2007",Dan Ward
+0494,0087,0494_w.asf,,✅,✅,484,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,Unified Management for Midsized Businesses: A Technical Overview of System Center Essentials 2007,David Mills
+0495,0087,0495_w.asf,,✅,✅,485,high,✅,✅,✅,62,You're in Control - Forefront & System Center Launch,"Data Back-up and Recovery for SQL, Exchange, and Vista Information: A Technical Overview of System Center Data Protection Manager",Jason Buffington
 0496,0088,0496_w.asf,,✅,✅,486,,✅,✅,✅,63,Windows Server Longhorn Press,Server Management - Windows PowerShell & Server Manager,Scott Ottaway
 0497,0088,0497_w.asf,,✅,✅,487,,✅,✅,✅,63,Windows Server Longhorn Press,Web Platform with Longhorn Server,Isaac Roybal
 0498,0088,0498_w.asf,,✅,✅,488,,✅,✅,✅,63,Windows Server Longhorn Press,Server Virtualization,Bryon Surace
@@ -504,15 +504,15 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0503,,,,,,493,,,,,,,,
 0504,0089,0504_w.asf,, , ,494,,✅,✅,,77,Documentaries,Software in the 21st Century: A Fascinating View on Next Generation Computer Systems,Andrew Herbert
 0505,,,,,,495,,,,,,,,
-0506,0090,0506_w.asf,,✅,✅,496,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
-0507,0090,0507_w.asf,,✅,✅,497,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
-0508,0090,0508a_w.asf,,✅,✅,498,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
-0509,0090,0509_w.asf,,✅,✅,499,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
-0510,0090,0510_w.asf,,✅,✅,500,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
-0511,0090,0511_w.asf,,✅,✅,501,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
-0512,0090,0512_w.asf,,✅,✅,502,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
-0513,0090,0513_w.asf,,✅,✅,503,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
-0514,0090,0514_w.asf,,✅,✅,504,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,,
+0506,0090,0506_w.asf,,✅,✅,496,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,An Overview of Office Communications Server 2007,Andy Casey
+0507,0090,0507_w.asf,,✅,✅,497,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,Building an Office Communications Server 2007 Architecture,Dave Lickorish
+0508,0090,0508a_w.asf,,✅,✅,498,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,IM and Rich Presence in Office Communications Server 2007,Duane Thomas
+0509,0090,0509_w.asf,,✅,✅,499,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,Deploying and Using Conferencing Solutions in Office Communications Server 2007,Duane Thomas
+0510,0090,0510_w.asf,,✅,✅,500,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,Management and Troubleshooting Tools in Office Communications Server 2007,Andy Casey
+0511,0090,0511_w.asf,,✅,✅,501,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,Voice in Office Communications Server 2007,Dave Lickorish
+0512,0090,0512_w.asf,,✅,✅,502,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,Enabling and Configuring Users for Voice in Office Communications Server 2007,Dave Lickorish
+0513,0090,0513_w.asf,,✅,✅,503,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,Integrating Exchange Server 2007 Unified Messaging and Office Communications Server 2007,Duane Thomas
+0514,0090,0514_w.asf,,✅,✅,504,high,✅,✅,✅,74,Office Communications Server 2007 Ignite Tour,Compliance and Archiving in Office Communications Server 2007,
 0515,,,, , ,505,,,,,,,,
 0516,,,, , ,506,,,,,,,,
 0517,0091,0517_w.asf,,✅,✅,507,high,✅,✅,✅,75,WinHEC 2007,Windows Memory Management Advance,Landy Wang
@@ -528,15 +528,15 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0527,0091,0527_w.asf,,✅,✅,517,high,✅,✅,✅,75,WinHEC 2007,Application and Presentation Virtualization,Alex Balcanquall
 0528,0091,0528_w.asf,,✅,✅,518,high,✅,✅,✅,75,WinHEC 2007,NPIV SAN Integration and Microsoft Virtualization ,"Therron Powell, Mark Karnowski"
 0529,,,, , ,519,,,,,,,,
-0530,0092,0530_w.asf,,✅,✅,520,,✅,✅,✅,67,Advanced Technologies,0530_pavlis_ForeFront_Client_Upr,
-0531,0092,0531_w.asf,,✅,✅,521,,✅,✅,✅,67,Advanced Technologies,0531_Setka_FSS,
-0532,0092,0532_w.asf,,✅,✅,522,,✅,✅,✅,67,Advanced Technologies,0532_Setka_SCE,
-0533,0092,0533_w.asf,,✅,✅,523,,✅,✅,✅,67,Advanced Technologies,0533_Rudisar_DPM2007,
-0534,0092,0534_w.asf,,✅,✅,524,,✅,✅,✅,67,Advanced Technologies,0534_SCCM2007 overview,
-0535,0092,0535_w.asf,,✅,✅,525,,✅,✅,✅,67,Advanced Technologies,0535_Vysek_scom2007,
-0536,0092,0536_w.asf,,✅,✅,526,,✅,✅,✅,67,Advanced Technologies,0536_System Center Service Manager,
-0537,0092,0537_w.asf,,✅,✅,527,,✅,✅,✅,67,Advanced Technologies,0537_Pavlis_ISA_Exchange,
-0538,0092,0538_w.asf,,✅,✅,528,,✅,✅,✅,67,Advanced Technologies,0538_Pavlis_IAG2007,
+0530,0092,0530_w.asf,,✅,✅,520,,✅,✅,✅,67,Advanced Technologies,Microsoft Forefront Client Security,Martin Pavlis
+0531,0092,0531_w.asf,,✅,✅,521,,✅,✅,✅,67,Advanced Technologies,Microsoft Forefront Security for Exchange Server,Petr Šetka
+0532,0092,0532_w.asf,,✅,✅,522,,✅,✅,✅,67,Advanced Technologies,Microsoft System Center Essentials 2007,Petr Šetka
+0533,0092,0533_w.asf,,✅,✅,523,,✅,✅,✅,67,Advanced Technologies,Microsoft System Center Data Protection Manager 2007,Karel Rudišar
+0534,0092,0534_w.asf,,✅,✅,524,,✅,✅,✅,67,Advanced Technologies,Systems Management Server 2003 to System Center Configuration Manager 2007,Jan Dryml
+0535,0092,0535_w.asf,,✅,✅,525,,✅,✅,✅,67,Advanced Technologies,Úvod do SC Operations Manager 2007,Ondřej Výšek
+0536,0092,0536_w.asf,,✅,✅,526,,✅,✅,✅,67,Advanced Technologies,Microsoft System Center Service Manager,Tomáš Kutej
+0537,0092,0537_w.asf,,✅,✅,527,,✅,✅,✅,67,Advanced Technologies,Internet Security & Acceleration Server 2006,Martin Pavlis
+0538,0092,0538_w.asf,,✅,✅,528,,✅,✅,✅,67,Advanced Technologies,Internet Application Gateway,Martin Pavlis
 0539,0093,0539_w.asf,,✅,✅,529,high,✅,✅,✅,65,Tech Ed US 2007,Keynote: Dynamic IT for the People-Ready Business,Bob Muglia
 0540,0093,0540_w.asf,,✅,✅,530,high,✅,✅,✅,65,Tech Ed US 2007,The Fortified Data Center in Your Future,Steve Riley
 0541,0093,0541a_w.asf,,✅,✅,531,high,✅,✅,✅,65,Tech Ed US 2007,Windows Server 2008 Deployment Overview,"Michael Niehaus, Tim Mintner"
@@ -573,26 +573,26 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0572,0094,0572_w.asf,,✅,✅,562,,✅,✅,✅,68,TechNet Security Workshop VII,0572_Security_Strategy_Briefing_fin,
 0573,0094,0573_w.asf,,✅,✅,563,,✅,✅,✅,68,TechNet Security Workshop VII,0573_Renamed_LongFileName_1183648_fin,
 0574,0094,0574_w.asf,,✅,✅,564,,✅,✅,✅,68,TechNet Security Workshop VII,0574_Security_Governance_fin,
-0575,0095,0575_w.asf,,✅,✅,565,high,✅,✅,✅,41,Web Administration Summit 2006,,
-0576,0095,0576_w.asf,,✅,✅,566,high,✅,✅,✅,41,Web Administration Summit 2006,,
-0577,0095,0577_w.asf,,✅,✅,567,high,✅,✅,✅,41,Web Administration Summit 2006,,
-0578,0095,0578_w.asf,,✅,✅,568,high,✅,✅,✅,41,Web Administration Summit 2006,,
-0579,0095,0579_w.asf,,✅,✅,569,high,✅,✅,✅,41,Web Administration Summit 2006,,
+0575,0095,0575_w.asf,,✅,✅,565,high,✅,✅,✅,69,Web Administration Summit 2007,What's New in IIS 7 for IT Pros,Isaac Roybal
+0576,0095,0576_w.asf,,✅,✅,566,high,✅,✅,✅,69,Web Administration Summit 2007,IIS7 Administration: The New IIS Manager,Brett Hill
+0577,0095,0577_w.asf,,✅,✅,567,high,✅,✅,✅,69,Web Administration Summit 2007,IIS7: Remote Control and Automated Tools,Isaac Roybal
+0578,0095,0578_w.asf,,✅,✅,568,high,✅,✅,✅,69,Web Administration Summit 2007,"IIS 7 Security: Less Exposure, Greater Control",Brett Hill
+0579,0095,0579_w.asf,,✅,✅,569,high,✅,✅,✅,69,Web Administration Summit 2007,IIS 7 Troubleshooting: Failed Request Tracing,Isaac Roybal
 0580,,,,,,570,,,,,,,,
-0581,0096,0581_w.asf,,✅,✅,571,high,✅,✅,✅,70,Microsoft Management Summit 2007,You're in Control: System Center and Forefront Security,"Eric Berg, Jeff Wettlaufer"
-0582,0096,0582_w.asf,,✅,✅,572,high,✅,✅,✅,70,Microsoft Management Summit 2007,Implementing Core Infrastructure Optimisation,Garry Corcoran
-0583,0096,0583_w.asf,,✅,✅,573,high,✅,✅,✅,70,Microsoft Management Summit 2007,System Center Essentials 2007: Overview and Architecture,Mike Peers
-0584,0096,0584_w.asf,,✅,✅,574,high,✅,✅,✅,70,Microsoft Management Summit 2007,System Center Operations Manager 2007: Technical Overview,Ellis Paul
-0585,0096,0585_w.asf,,✅,✅,575,high,✅,✅,✅,70,Microsoft Management Summit 2007,Understanding Microsoft's Forefront Security Solution for Businesses,Stephen Lamb
-0586,0096,0586_w.asf,,✅,✅,576,high,✅,✅,✅,70,Microsoft Management Summit 2007,Microsoft Softgrid: Creating Software as a Service,Paul Butterworth
-0587,0096,0587_w.asf,,✅,✅,577,high,✅,✅,✅,70,Microsoft Management Summit 2007,System Center Operations Manager 2007: Deployment Planning and Best Practices,Ellis Paul
-0588,0096,0588_w.asf,,✅,✅,578,high,✅,✅,✅,70,Microsoft Management Summit 2007,Managing Forefront Client Security In-Depth using MOM Technology,Gordon McKenna
-0589,0096,0589_w.asf,,✅,✅,579,high,✅,✅,✅,70,Microsoft Management Summit 2007,Systems Center Service Manager overview,Paul Butterworth
-0590,0096,0590_w.asf,,✅,✅,580,high,✅,✅,✅,70,Microsoft Management Summit 2007,System Center Configuration Manager 2007: Technical Overview,Jeff Wettlaufer
-0591,0096,0591_w.asf,,✅,✅,581,high,✅,✅,✅,70,Microsoft Management Summit 2007,Windows Server Virtualisation - Solution Scenarios,David Hitchen
-0592,0096,0592_w.asf,,✅,✅,582,high,✅,✅,✅,70,Microsoft Management Summit 2007,Managing Systems with Windows Powershell,Richard Siddaway
-0593,0096,0593_w.asf,,✅,✅,583,high,✅,✅,✅,70,Microsoft Management Summit 2007,System Center Configuration Manager: Deploying Windows in the Enterprise,Jeff Wettlaufer
-0594,0096,0594_w.asf,,✅,✅,584,high,✅,✅,✅,70,Microsoft Management Summit 2007,System Center Virtual Machine Manager,David Hitchen
+0581,0096,0581_w.asf,,✅,✅,571,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,You're in Control: System Center and Forefront Security,"Eric Berg, Jeff Wettlaufer"
+0582,0096,0582_w.asf,,✅,✅,572,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,Implementing Core Infrastructure Optimisation,Garry Corcoran
+0583,0096,0583_w.asf,,✅,✅,573,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,System Center Essentials 2007: Overview and Architecture,Mike Peers
+0584,0096,0584_w.asf,,✅,✅,574,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,System Center Operations Manager 2007: Technical Overview,Ellis Paul
+0585,0096,0585_w.asf,,✅,✅,575,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,Understanding Microsoft's Forefront Security Solution for Businesses,Stephen Lamb
+0586,0096,0586_w.asf,,✅,✅,576,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,Microsoft Softgrid: Creating Software as a Service,Paul Butterworth
+0587,0096,0587_w.asf,,✅,✅,577,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,System Center Operations Manager 2007: Deployment Planning and Best Practices,Ellis Paul
+0588,0096,0588_w.asf,,✅,✅,578,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,Managing Forefront Client Security In-Depth using MOM Technology,Gordon McKenna
+0589,0096,0589_w.asf,,✅,✅,579,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,Systems Center Service Manager overview,Paul Butterworth
+0590,0096,0590_w.asf,,✅,✅,580,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,System Center Configuration Manager 2007: Technical Overview,Jeff Wettlaufer
+0591,0096,0591_w.asf,,✅,✅,581,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,Windows Server Virtualisation - Solution Scenarios,David Hitchen
+0592,0096,0592_w.asf,,✅,✅,582,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,Managing Systems with Windows Powershell,Richard Siddaway
+0593,0096,0593_w.asf,,✅,✅,583,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,System Center Configuration Manager: Deploying Windows in the Enterprise,Jeff Wettlaufer
+0594,0096,0594_w.asf,,✅,✅,584,high,✅,✅,✅,70,Best of Microsoft Management Summit 2007,System Center Virtual Machine Manager,David Hitchen
 0595,,,,,,585,,,,,,,,
 0596,0097,0596_w.asf,,✅,✅,586,,✅,✅,✅,71,REMIX 2007,Keynote: Silverlight,Scott Guthrie
 0597,0097,0597_w.asf,,✅,✅,587,,✅,✅,✅,71,REMIX 2007,Put Your Assets on the Big Screen with Windows Media Center,"Django Weisz Blanchetta, Paul Brand"
@@ -700,19 +700,19 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0699,0099,0699_w.asf,, , ,689,,✅,✅,,666,MIX 2007 Keynote,MIX07 Keynote: Pushing the Envelope of What's Possible on the Web Today,Ray Ozzie
 0700,0099,0700_w.asf,, , ,690,,✅,✅,,75,WinHEC 2007,WinHEC 2007 Keynote: Windows Platform Innovations for Today and Tommorrow,Bill Gates
 0701,0099,0701_w.asf,, , ,691,,✅,✅,,77,Documentaries,Behind the Code,Anders Hejlsberg
-0702,0102,0702_w.asf,,✅,✅,692,high,✅,✅,✅,79,MMS Roadshow 2007,,
-0703,0102,0703_w.asf,,✅,✅,693,high,✅,✅,✅,79,MMS Roadshow 2007,,
-0704,0102,0704_w.asf,,✅,✅,694,high,✅,✅,✅,79,MMS Roadshow 2007,,
-0705,0102,0705_w.asf,,✅,✅,695,high,✅,✅,✅,79,MMS Roadshow 2007,,
-0706,0102,0706_w.asf,,✅,✅,696,high,✅,✅,✅,79,MMS Roadshow 2007,,
-0707,0103,0707_w.asf,,✅,✅,697,high,✅,✅,✅,80,SBS 2003 a Windows Vista,0707_SBS 2003 a nov_technologiex,
-0708,0103,0708_w.asf,,✅,✅,698,high,✅,✅,✅,80,SBS 2003 a Windows Vista,0708_SBS 2003 a nov_technologiex,
-0709,0103,0709_w.asf,,✅,✅,699,high,✅,✅,✅,80,SBS 2003 a Windows Vista,0709_SBS 2003 a nov_technologiex,
-0710,0104,0710_w.asf,,✅,✅,700,high,✅,✅,✅,81,Technet Konference 2007,0710_lukes_petratur_frantik_keynotex,
-0711,0104,0711_w.asf,,✅,✅,701,high,✅,✅,✅,81,Technet Konference 2007,0711_vista_vysek_vavrax,
-0712,0104,0712_w.asf,,✅,✅,702,high,✅,✅,✅,81,Technet Konference 2007,0712_w2k8_pavlis_florianx,
-0713,0104,0713_w.asf,,✅,✅,703,high,✅,✅,✅,81,Technet Konference 2007,0713_uc_henc_mirosnikx,
-0714,0104,0714_w.asf,,✅,✅,704,high,✅,✅,✅,81,Technet Konference 2007,0714_infrastruktura_solc_drymlx,
+0702,0102,0702_w.asf,,✅,✅,692,high,✅,✅,✅,79,MMS Roadshow 2007,Driving to Dynamic IT with Microsoft System Center,Josh Pointer
+0703,0102,0703_w.asf,,✅,✅,693,high,✅,✅,✅,79,MMS Roadshow 2007,System Center Configuration Manager 2007 Technical Drilldown,Josh Pointer
+0704,0102,0704_w.asf,,✅,✅,694,high,✅,✅,✅,79,MMS Roadshow 2007,System Center Operations Manager 2007 Technical Drilldown,Boris Yanushpolsky
+0705,0102,0705_w.asf,,✅,✅,695,high,✅,✅,✅,79,MMS Roadshow 2007,Server and Application Virtualization Roundup,Josh Pointer
+0706,0102,0706_w.asf,,✅,✅,696,high,✅,✅,✅,79,MMS Roadshow 2007,"System Center: Data Protection, Capacity Planning, and Service Management",Boris Yanushpolsky
+0707,0103,0707_w.asf,,✅,✅,697,high,✅,✅,✅,80,SBS 2003 a Windows Vista,SBS 2003 a Windows Vista - cást I.,Petr Šetka
+0708,0103,0708_w.asf,,✅,✅,698,high,✅,✅,✅,80,SBS 2003 a Windows Vista,SBS 2003 a Windows Vista - cást II.,Petr Šetka
+0709,0103,0709_w.asf,,✅,✅,699,high,✅,✅,✅,80,SBS 2003 a Windows Vista,SBS 2003 a Windows Vista - cást III.,Petr Šetka
+0710,0104,0710_w.asf,,✅,✅,700,high,✅,✅,✅,81,Technet Konference 2007,Co IT-rok dal,"Dalibor Lukeš, Radim Petratur"
+0711,0104,0711_w.asf,,✅,✅,701,high,✅,✅,✅,81,Technet Konference 2007,Borici mýtu - Windows Vista,"Jan Vávra, Ondrej Výšek"
+0712,0104,0712_w.asf,,✅,✅,702,high,✅,✅,✅,81,Technet Konference 2007,Novinky ve Windows Serveru 2008,"Karel Florian, Martin Pavlis"
+0713,0104,0713_w.asf,,✅,✅,703,high,✅,✅,✅,81,Technet Konference 2007,Unified Communications,"Marian Henc, Tomáš Mirošník"
+0714,0104,0714_w.asf,,✅,✅,704,high,✅,✅,✅,81,Technet Konference 2007,System Center a Forefront Security,"Jan Dryml, Ladislav Šolc"
 0715,0105,0715a_w.asf,, ,✅,705,high,✅,✅,✅,82,TechEd Developers 2007,Keynote: Building Great Applications,S.Somasegar
 0716,0105,0716a_w.asf,, , ,706,high,✅,✅,✅,82,TechEd Developers 2007,The Irresistible Forces Meet the Moveable Objects,Pat Helland
 0717,0105,0717_w.asf,, , ,707,high,✅,✅, ,82,TechEd Developers 2007,Why Software Sucks?,David Platt 
@@ -803,7 +803,7 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0802,0111,0802_w.asf,,✅, ,802,high,✅,✅,✅,88,Windows Server 2008 Summit,,
 0803,0111,0803_w.asf,,✅, ,803,high,✅,✅,✅,88,Windows Server 2008 Summit,,
 0804,0111,0804_w.asf,,✅, ,804,high,✅,✅,✅,88,Windows Server 2008 Summit,,
-0805,,,, , ,805,low, , , ,95,IT-HerOlympics,,
+0805,,,, , ,805,low, , , ,95,IT-HerOlympics,Panel Discussion,
 0806,,,, , ,806,high,✅,✅,✅,89,TechNet Live,,
 0807,,,, , ,807,high,✅,✅,✅,89,TechNet Live,,
 0808,,,, , ,808,high,✅,✅,✅,89,TechNet Live,,
@@ -814,59 +814,59 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0813,0113,0813_w.asf,, , ,813,high,✅,✅,✅,90,Microsoft Innovation Center Athens Launch,The Magic of Software,Bill Gates
 0814,0099,0814_w.asf,, , ,814,,,,,77,Documentaries,Microsoft Spotlight + British Airway,
 0815,0114,0815_w.asf,, , ,815,high,✅,✅, ,91,Springboard Live! Virtual Roundtable,Still Undecided about Windows Vista?,Mark Russinovich
-0816,,,, , ,816,high,✅,✅,✅,93,Virtualizace 360,,
-0817,,,, , ,817,high,✅,✅,✅,93,Virtualizace 360,,
-0818,,,, , ,818,high,✅,✅,✅,93,Virtualizace 360,,
-0819,,,, , ,819,high,✅,✅,✅,93,Virtualizace 360,,
-0820,,,, , ,820,high,✅,✅,✅,93,Virtualizace 360,,
-0821,,,, , ,821,high,✅,✅,✅,94,Technologický Launch,821_Keynote_Lukesx,
-0822,,,, , ,822,high,✅,✅,✅,94,Technologický Launch,822_SQL08_Jurekx,
-0823,,,, , ,823,high,✅,✅,✅,94,Technologický Launch,823_WS08_Florian_Pavlisx,
-0824,,,, , ,824,high,✅,✅,✅,95,IT-HerOlympics,,
-0825,,,, , ,825,high,✅,✅,✅,95,IT-HerOlympics,,
-0826,,,, , ,826,high,✅,✅,✅,95,IT-HerOlympics,,
-0827,,,, , ,827,high,✅,✅,✅,95,IT-HerOlympics,,
-0828,,,, , ,828,high,✅,✅,✅,95,IT-HerOlympics,,
-0829,,,, , ,829,high,✅,✅,✅,95,IT-HerOlympics,,
-0830,,,, , ,830,high,✅,✅,✅,95,IT-HerOlympics,,
-0831,,,, , ,831,high,✅,✅,✅,95,IT-HerOlympics,,
-0832,,,, , ,832,high,✅,✅, ,95,IT-HerOlympics,,
-0833,,,, , ,833,high,✅,✅,✅,95,IT-HerOlympics,,
-0834,0118,0834_w.asf,, , ,834,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,,
-0835,0118,0835_w.asf,, , ,835,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,,
-0836,0118,0836c_w.asf,, , ,836,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,,
-0837,0118,0837_w.asf,, , ,837,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,,
-0838,0118,0838a_w.asf,, , ,838,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,,
-0839,0119,0839a_w.asf,, , ,839,high,✅,✅,✅,97,TechDays 2008,DAT102_DAT_102_Presentation_generale_de_SQL_Server_2008_V1_0x,
-0840,0119,0840a_w.asf,, , ,840,high,✅,✅,✅,97,TechDays 2008,DEC104_TechDays_2008_Decouverte_d_Analysis_Services_2008x,
-0841,0119,0841a_w.asf,, , ,841,high,✅,✅,✅,97,TechDays 2008,DEC206_TechDays_2008_Reporting_Services_2008x,
-0842,0119,0842a_w.asf,, , ,842,high,✅,✅,✅,97,TechDays 2008,INF201_INF_201_Strategies_d_administration_locale_et_distante_avec_Windows_Server_2008_outils_et_configurationx,
-0843,0119,0843a_w.asf,, , ,843,high,✅,✅,✅,97,TechDays 2008,INF205_Clusterx,
-0844,0119,0844a_w.asf,, , ,844,high,✅,✅,✅,97,TechDays 2008,INF216_IIS_7_0_Clean_laurenbox,
+0816,,,, , ,816,high,✅,✅,✅,93,Virtualizace 360,"Privítání, úvod",Ondrej Výšek
+0817,,,, , ,817,high,✅,✅,✅,93,Virtualizace 360,Virtualizace hardware,Jan Dryml
+0818,,,, , ,818,high,✅,✅,✅,93,Virtualizace 360,Správa virtuálního prostredí,Petr Šetka
+0819,,,, , ,819,high,✅,✅,✅,93,Virtualizace 360,Virtualizace desktopu,Martin Pavlis
+0820,,,, , ,820,high,✅,✅,✅,93,Virtualizace 360,Virtualizace aplikací,Ondrej Výšek
+0821,,,, , ,821,high,✅,✅,✅,94,Technologický Launch,Úvodní slovo (keynote),Dalibor Lukeš
+0822,,,, , ,822,high,✅,✅,✅,94,Technologický Launch,SQL Server 2008,Michal Jurek
+0823,,,, , ,823,high,✅,✅,✅,94,Technologický Launch,Windows Server 2008,"Karel Florian, Martin Pavlis"
+0824,,,, , ,824,high,✅,✅,✅,95,IT-HerOlympics,"Keynote: Lancering Windows Server 2008, SQL Server 2008, Visual Studio 2008","Michel N'Guettia, Erwin Hartenberg"
+0825,,,, , ,825,high,✅,✅,✅,95,IT-HerOlympics,Windows Server 2008 Overview,"Tony Krijnen, Daniel van Soest"
+0826,,,, , ,826,high,✅,✅,✅,95,IT-HerOlympics,Internet Information Server,Fabio Yeon
+0827,,,, , ,827,high,✅,✅,✅,95,IT-HerOlympics,SQL Server Overview,Gert Drapers
+0828,,,, , ,828,high,✅,✅,✅,95,IT-HerOlympics,Windows Server 2008 Active Directory,John Craddock
+0829,,,, , ,829,high,✅,✅,✅,95,IT-HerOlympics,Windows Server Core,Sander Berkhouwer
+0830,,,, , ,830,high,✅,✅,✅,95,IT-HerOlympics,Technical Drilldown on Virtualization in Windows Server 2008,Ronald Beekelaar
+0831,,,, , ,831,high,✅,✅,✅,95,IT-HerOlympics,Windows Server 2008 Terminal Services,Martijn Bellaard
+0832,,,, , ,832,high,✅,✅, ,95,IT-HerOlympics,Security (Chalk and Talk),Steve Lamb
+0833,,,, , ,833,high,✅,✅,✅,95,IT-HerOlympics,Windows Server 2008 Active Directory Drilldown,John Craddock
+0834,0118,0834_w.asf,, , ,834,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,Building a Security Infrastructure Keynote,Steve Lamb
+0835,0118,0835_w.asf,, , ,835,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,Forefront Overview,Ronald Beekelaar
+0836,0118,0836c_w.asf,, , ,836,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,Forefront Client Security,Ronald Beekelaar
+0837,0118,0837_w.asf,, , ,837,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,Forefront Server Security,Ronald Beekelaar
+0838,0118,0838a_w.asf,, , ,838,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,Forefront Edge Security,Ronald Beekelaar
+0839,0119,0839a_w.asf,, , ,839,high,✅,✅,✅,97,TechDays 2008,DAT102_DAT_102_Presentation_generale_de_SQL_Server_2008_V1_0,
+0840,0119,0840a_w.asf,, , ,840,high,✅,✅,✅,97,TechDays 2008,DEC104_TechDays_2008_Decouverte_d_Analysis_Services_2008,
+0841,0119,0841a_w.asf,, , ,841,high,✅,✅,✅,97,TechDays 2008,DEC206_TechDays_2008_Reporting_Services_2008,
+0842,0119,0842a_w.asf,, , ,842,high,✅,✅,✅,97,TechDays 2008,INF201_INF_201_Strategies_d_administration_locale_et_distante_avec_Windows_Server_2008_outils_et_configuration,
+0843,0119,0843a_w.asf,, , ,843,high,✅,✅,✅,97,TechDays 2008,INF205_Cluster,
+0844,0119,0844a_w.asf,, , ,844,high,✅,✅,✅,97,TechDays 2008,INF216_IIS_7_0_Clean_laurenbo,
 0845,0119,0845a_w.asf,, , ,845,high,✅,✅, ,97,TechDays 2008,,
 0846,0119,0846a_w.asf,, , ,846,high,✅,✅, ,97,TechDays 2008,,
 0847,0119,0847a_w.asf,, , ,847,high,✅,✅, ,97,TechDays 2008,,
 0848,0119,0848a_w.asf,, , ,848,high,✅,✅, ,97,TechDays 2008,,
-0849,0119,0849a_w.asf,, , ,849,high,✅,✅,✅,97,TechDays 2008,LAN111_Team_System_2008x,
-0850,0119,0850a_w.asf,, , ,850,high,✅,✅,✅,97,TechDays 2008,LAN303_Visual_Studio_2008x,
-0851,0119,0851a_w.asf,, , ,851,high,✅,✅,✅,97,TechDays 2008,Noyau Windows Server 2008x,
-0852,0119,0852a_w.asf,, , ,852,high,✅,✅,✅,97,TechDays 2008,VIR201_VIR_201_Virtualisation_de_serveurs_avec_Windows_Server_2008_Hyper_Vx,
-0853,0119,0853a_w.asf,, , ,853,high,✅,✅,✅,97,TechDays 2008,WEB106_Cyril_Decouverte_Silverlight_Techdays08x,
+0849,0119,0849a_w.asf,, , ,849,high,✅,✅,✅,97,TechDays 2008,LAN111_Team_System_2008,
+0850,0119,0850a_w.asf,, , ,850,high,✅,✅,✅,97,TechDays 2008,LAN303_Visual_Studio_2008,
+0851,0119,0851a_w.asf,, , ,851,high,✅,✅,✅,97,TechDays 2008,Noyau Windows Server 2008,
+0852,0119,0852a_w.asf,, , ,852,high,✅,✅,✅,97,TechDays 2008,VIR201_VIR_201_Virtualisation_de_serveurs_avec_Windows_Server_2008_Hyper_V,
+0853,0119,0853a_w.asf,, , ,853,high,✅,✅,✅,97,TechDays 2008,WEB106_Cyril_Decouverte_Silverlight_Techdays08,
 0854,0119,0854a_w.asf,, , ,854,high,✅,✅,✅,97,TechDays 2008,WEB210_presentation_afup,
-0855,0119,0855a_w.asf,, , ,855,high,✅,✅,✅,97,TechDays 2008,WEB301_Web301x,
-0856,0120,0856_w.asf,, , ,856,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,Eric Rudder
-0857,0120,0857_w.asf,, , ,857,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,
-0858,0120,0858_w.asf,, , ,858,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,
-0859,0120,0859_w.asf,, , ,859,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,
-0860,0120,0860_w.asf,, , ,860,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,
-0861,0120,0861_w.asf,, , ,861,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,
-0862,0120,0862a_w.asf,, , ,862,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,
-0863,0120,0863_w.asf,, , ,863,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,
-0864,0120,0864_w.asf,, , ,864,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,,
-0865,0121,0865_w.asf,, , ,865,high,✅,✅,✅,99,Data Mining and Business Intelligence for Enterprises,,
-0866,0121,0866_w.asf,, , ,866,high,✅,✅,✅,99,Data Mining and Business Intelligence for Enterprises,,
-0867,0121,0867a_w.asf,, , ,867,high,✅,✅,✅,99,Data Mining and Business Intelligence for Enterprises,,
-0868,0121,0868_w.asf,, , ,868,high,✅,✅,✅,99,Data Mining and Business Intelligence for Enterprises,,
+0855,0119,0855a_w.asf,, , ,855,high,✅,✅,✅,97,TechDays 2008,WEB301_Web301,
+0856,0120,0856_w.asf,, , ,856,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Dynamic IT & The 2008 Launch Wave,Eric Rudder
+0857,0120,0857_w.asf,, , ,857,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Windows Server 2008: Internet Information Services 7.0,
+0858,0120,0858_w.asf,, , ,858,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Windows Server 2008: Virtualization,Panagiotis Korologos
+0859,0120,0859_w.asf,, , ,859,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Windows Server 2008 and Security,Nasos Kladakis
+0860,0120,0860_w.asf,, , ,860,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,SQL Server 2008 Technical Overview,Nikos Anastopoulos
+0861,0120,0861_w.asf,, , ,861,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Visual Studio 2008 Overview,Eleni Rachaniotou
+0862,0120,0862a_w.asf,, , ,862,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Building Smart Clients with Visual Studio 2008,Daniel Moth
+0863,0120,0863_w.asf,, , ,863,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Language Integrated Query (LINQ),Nikos Makris
+0864,0120,0864_w.asf,, , ,864,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Reach End-Users with Next Generation Web Applications,George J. Capnias
+0865,0121,0865_w.asf,, , ,865,high,✅,✅,✅,99,Data Mining and Business Intelligence for Enterprises,Introduction to Data Mining,Rafal Lukawiecki
+0866,0121,0866_w.asf,, , ,866,high,✅,✅,✅,99,Data Mining and Business Intelligence for Enterprises,Working with Data Mining,Rafal Lukawiecki
+0867,0121,0867a_w.asf,, , ,867,high,✅,✅,✅,99,Data Mining and Business Intelligence for Enterprises,Using Data Mining in Your IT Systems (Part 1),Rafal Lukawiecki
+0868,0121,0868_w.asf,, , ,868,high,✅,✅,✅,99,Data Mining and Business Intelligence for Enterprises,Using Data Mining in Your IT Systems (Part 2),Rafal Lukawiecki
 0869,0122,0869_w.asf,, , ,869,high,✅,✅,✅,100,NT Konferenca 2008,,
 0870,0122,0870_w.asf,, , ,870,high,✅,✅,✅,100,NT Konferenca 2008,,
 0871,0122,0871_w.asf,, , ,871,high,✅,✅,✅,100,NT Konferenca 2008,,
@@ -999,7 +999,7 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0998,0126,0998_w.asf,,,,998,high,✅,✅,✅,104,TechEd North America 2008 - IT Professionals,Windows Server 2008 Hyper-V: Scripting and Programmatic Management for Fun and Profit (VBS and PowerShell),"Alexander Lash, John Kelbley"
 0999,0126,0999_w.asf,,,,999,high,✅,✅,✅,104,TechEd North America 2008 - IT Professionals,Deploying Windows Server 2008 Hyper-V and Microsoft System Center Virtual Machine Manager: Best Practices,"Allen Stewart, Edwin Yuen"
 1000,0126,1000_w.asf,,,,1000,high,✅,✅,✅,104,TechEd North America 2008 - IT Professionals,"Windows Server 2008 Hyper-V Architecture, Scenarios, and Networking","Jeff Woolsey, Mike Sterling"
-7777,7777,7777b_w.asf,,,✅,,,,,,777,Ready to Rock Launch,Ready to Rock Launch Keynote: The Microsoft Application Platform,Steve Ballmer
+7777,7777,7777b_w.asf,,,✅,,,,,,777,Ready to Rock - The Launch,Ready to Rock Launch Keynote: The Microsoft Application Platform,Steve Ballmer
 8888,8888,8888c_w.asf,,✅,✅,,,,,,888,Windows Vista Demos,Windows Vista User Experience Enhancements,"Aaron Woodman, Joe Belfiore"
 8889,8889,8889_w.asf,,✅,✅,,,,,,888,Windows Vista Demos,Business and IT Value of Migrating to Windows Vista,Chris Jones
 9999,9999,9999c_w.asf,,✅,✅,9999,hd,✅,✅,✅,66,Lighter Side of IT,Microsoft WSYP Project: Leverage Customer Feedback for Software Quality,Mauro Meanti
