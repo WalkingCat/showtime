@@ -253,7 +253,7 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0252,0059,0252_w.asf,,✅,✅,242,,✅,✅,✅,31,Innovation 2006,"Windows SharePoint Services ""v3"": Technical Fundamentals and Features - What's New",Angus Logan
 0253,0059,0253_w.asf,,✅,✅,243,,✅,✅,✅,31,Innovation 2006,Windows Vista Reliability and Security Enhancements,Jeff Alexander
 0254,0059,0254_w.asf,,✅,✅,244,,✅,✅,✅,31,Innovation 2006,Introducing Developer Features for Office,"Charles Sterling , John Hodgson"
-0255,0059,0255_w.asf,,✅,✅,245,,✅,✅,✅,31,Innovation 2006,Upgrading applications to Windows Vista Part I,Darren Neimke
+0255,0059,0255_w.asf,,✅,✅,245,,✅,✅,✅,31,Innovation 2006,Upgrading Applications to Windows Vista Part I,Darren Neimke
 0256,0059,0256_w.asf,,✅,✅,246,,✅,✅,✅,31,Innovation 2006,Developer Features Windows Vista - Part II,"Charles Sterling , John Hodgson"
 0257,0059,0257_w.asf,,✅,✅,247,,✅,✅,✅,31,Innovation 2006,Developer Features Windows Vista - Part III,Darren Neimke 
 0258,0059,0258_w.asf,,✅,✅,248,,✅,✅,✅,31,Innovation 2006,"Developing on the Office ""12"" System Servers",John Hodgson
@@ -563,16 +563,16 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0562,0093,0562_w.asf,,✅,✅,552,high,✅,✅,✅,65,Tech Ed US 2007,Microsoft System Center Data Protection Manager (DPM) 2007: How to Protect Microsoft SQL Server ,Jason Buffington
 0563,,,, , ,553,,,,,,,,
 0564,,,, , ,554,,,,,,,,
-0565,0094,0565_w.asf,,✅,✅,555,,✅,✅,✅,68,TechNet Security Workshop VII,0565_Keynote_Microsoft_Italia_e_le_sfide_della_Sicurezza_Informatica_fin,
-0566,0094,0566_w.asf,,✅,✅,556,,✅,✅,✅,68,TechNet Security Workshop VII,0566_Windows Server 2008 Kernel Security - Giorgini_fin,
-0567,0094,0567_w.asf,,✅,✅,557,,✅,✅,✅,68,TechNet Security Workshop VII,0567_W2K8-NetworkAccessProtection_fin,
-0568,0094,0568_w.asf,,✅,✅,558,,✅,✅,✅,68,TechNet Security Workshop VII,0567_W2K8-NetworkAccessProtection_fin,
+0565,0094,0565_w.asf,,✅,✅,555,,✅,✅,✅,68,TechNet Security Workshop VII,Keynote: Microsoft Italia e le sfide della Sicurezza Informatica,"Francesca Di Massimo, Angelo Parente"
+0566,0094,0566_w.asf,,✅,✅,556,,✅,✅,✅,68,TechNet Security Workshop VII,Le novità del kernel di Windows Server 2008,Renato Francesco Giorgini
+0567,0094,0567_w.asf,,✅,✅,557,,✅,✅,✅,68,TechNet Security Workshop VII,Gestione degli accessi alla rete con Network Access Protection,PierGiorgio Malusardi
+0568,0094,0568_w.asf,,✅,✅,558,,✅,✅,✅,68,TechNet Security Workshop VII,Controllo degli accessi con Windows Server 2008,Fabrizio Grossi
 0569,,,,,,559,,,,,,,,
-0570,0094,0570_w.asf,,✅,✅,560,,✅,✅,✅,68,TechNet Security Workshop VII,0570_Accesso_Sicuro_Alle_Applicazioni_fin,
-0571,0094,0571_w.asf,,✅,✅,561,,✅,✅,✅,68,TechNet Security Workshop VII,0571_Forefront Security - Protezione dal Malware - Giorgini_fin_2of2,
-0572,0094,0572_w.asf,,✅,✅,562,,✅,✅,✅,68,TechNet Security Workshop VII,0572_Security_Strategy_Briefing_fin,
-0573,0094,0573_w.asf,,✅,✅,563,,✅,✅,✅,68,TechNet Security Workshop VII,0573_Renamed_LongFileName_1183648_fin,
-0574,0094,0574_w.asf,,✅,✅,564,,✅,✅,✅,68,TechNet Security Workshop VII,0574_Security_Governance_fin,
+0570,0094,0570_w.asf,,✅,✅,560,,✅,✅,✅,68,TechNet Security Workshop VII,Protezione dei server e dei client,"Manuela Polcaro, PierGiorgio Malusardi"
+0571,0094,0571_w.asf,,✅,✅,561,,✅,✅,✅,68,TechNet Security Workshop VII,Proteggersi dal malware,"Renato Francesco Giorgini, Fabrizio Grossi"
+0572,0094,0572_w.asf,,✅,✅,562,,✅,✅,✅,68,TechNet Security Workshop VII,Security Strategy Briefing,Lori Woehler
+0573,0094,0573_w.asf,,✅,✅,563,,✅,✅,✅,68,TechNet Security Workshop VII,L'impatto delle policy e delle tecnologie di sicurezza sugli utenti aziendali e privati,Andrea Valboni
+0574,0094,0574_w.asf,,✅,✅,564,,✅,✅,✅,68,TechNet Security Workshop VII,Security Governance,Feliciano Intini
 0575,0095,0575_w.asf,,✅,✅,565,high,✅,✅,✅,69,Web Administration Summit 2007,What's New in IIS 7 for IT Pros,Isaac Roybal
 0576,0095,0576_w.asf,,✅,✅,566,high,✅,✅,✅,69,Web Administration Summit 2007,IIS7 Administration: The New IIS Manager,Brett Hill
 0577,0095,0577_w.asf,,✅,✅,567,high,✅,✅,✅,69,Web Administration Summit 2007,IIS7: Remote Control and Automated Tools,Isaac Roybal
@@ -680,23 +680,23 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0679,0099,0679a_w.asf,, , ,669,,✅,✅, ,66,Lighter Side of IT,Microsoft Roundtable 360 Panoramic View,
 0680,0101,0680_w.asf,,✅,✅,670,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Werner van Huffel,
 0681,0101,0681_w.asf,,✅,✅,671,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,BizTalk Public Sector Chris Axton,
-0682,0101,0682_w.asf,,✅,✅,672,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,BizTalk lcrump-finalx,
-0683,0101,0683_w.asf,,✅,✅,673,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,steve_martin_FINALx,
-0684,0101,0684_w.asf,,✅,✅,674,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Anush Kumarx,
+0682,0101,0682_w.asf,,✅,✅,672,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,BizTalk lcrump,
+0683,0101,0683_w.asf,,✅,✅,673,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,steve_martin,
+0684,0101,0684_w.asf,,✅,✅,674,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Anush Kumar,
 0685,0101,0685_w.asf,,✅,✅,675,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Phill Kenny,
 0686,0101,0686_w.asf,,✅,✅,676,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Ian Lister_Miguel Herrera,
 0687,0101,0687_w.asf,,✅,✅,677,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Ian Lister_Miguel Herrera,
 0688,0101,0688_w.asf,,✅,✅,678,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,toneybarnes_V2,
-0689,0101,0689_w.asf,,✅,✅,679,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Don Ferguson and Oliver Sharpx,
-0690,0101,0690_w.asf,,✅,✅,680,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Don Ferguson and Oliver Sharpx,
-0691,0101,0691_w.asf,,✅,✅,681,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Don Ferguson and Oliver Sharpx,
-0692,0101,0692_w.asf,,✅,✅,682,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Don Ferguson and Oliver Sharpx,
-0693,0101,0693_w.asf,,✅,✅,683,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Don Ferguson and Oliver Sharpx,
+0689,0101,0689_w.asf,,✅,✅,679,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Six Mega-trends That Will Shape IT in the Next Decade,Don Ferguson 
+0690,0101,0690_w.asf,,✅,✅,680,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,BizTalk Server 2006 R2 Launch,Oliver Sharp
+0691,0101,0691_w.asf,,✅,✅,681,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,,
+0692,0101,0692_w.asf,,✅,✅,682,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Intel RFID,Kerry Krause
+0693,0101,0693_w.asf,,✅,✅,683,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Demo,Michael Woods
 0694,0101,0694_w.asf,, , ,684,,✅, , ,78,BizTalk Server 2006 R2 Launch,,
-0695,0101,0695_w.asf,,✅,✅,685,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,SWIFT James Bibby v2.0x,
-0696,0101,0696_w.asf,,✅,✅,686,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Craig van Zeyl_finalx,
-0697,0101,0697_w.asf,,✅,✅,687,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,BizTalk Final,
-0698,0101,0698_w.asf,,✅,✅,688,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,BizTalk Final,
+0695,0101,0695_w.asf,,✅,✅,685,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,SWIFT and BizTalk,James Bibby 
+0696,0101,0696_w.asf,,✅,✅,686,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,Integration-centric Implementation of BPM in Financial Services,Craig van Zeyl
+0697,0101,0697_w.asf,,✅,✅,687,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,ASB - One Step Ahead with BizTalk Server 2006 R2,"Chris Robb, Rob Maher"
+0698,0101,0698_w.asf,,✅,✅,688,,✅,✅,✅,78,BizTalk Server 2006 R2 Launch,ASB - One Step Ahead with BizTalk Server 2006 R2,"Chris Robb, Rob Maher"
 0699,0099,0699_w.asf,, , ,689,,✅,✅,,666,MIX 2007 Keynote,MIX07 Keynote: Pushing the Envelope of What's Possible on the Web Today,Ray Ozzie
 0700,0099,0700_w.asf,, , ,690,,✅,✅,,75,WinHEC 2007,WinHEC 2007 Keynote: Windows Platform Innovations for Today and Tommorrow,Bill Gates
 0701,0099,0701_w.asf,, , ,691,,✅,✅,,77,Documentaries,Behind the Code,Anders Hejlsberg
@@ -753,21 +753,21 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0752,,,,,,742,,,,,,,,
 0753,0108,0753_w.asf,, , ,743,high,✅,✅,✅,85,Конференция Платформа 2008,Построение системы объединенных коммуникаций на базе Office Communications Server 2007 и Exchange Server 2007 SP1,Бари Муртазин
 0754,0108,0754_w.asf,, , ,744,high,✅,✅,✅,85,Конференция Платформа 2008,Обеспечение безопасной работы удаленных офисов и филиалов,Юрий Осипов
-0755,0107,0755_w.asf,,✅, ,755,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0756,0107,0756a_w.asf,,✅,✅,756,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0757,0107,0757_w.asf,,✅,✅,757,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0758,0107,0758_w.asf,,✅,✅,758,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0759,,,,✅, ,759,,,,,84,Microsoft 2007 SOA and Business Process Conference,,
-0760,0107,0760_w.asf,,✅,✅,760,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0761,0107,0761_w.asf,,✅,✅,761,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0762,0107,0762_w.asf,,✅,✅,762,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0763,0107,0763a_w.asf,,✅, ,763,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0764,0107,0764_w.asf,,✅,✅,764,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0765,0107,0765_w.asf,,✅,✅,765,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0766,0107,0766_w.asf,,✅,✅,766,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0767,0107,0767_w.asf,,✅,✅,767,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0768,0107,0768_w.asf,,✅,✅,768,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
-0769,0107,0769_w.asf,,✅,✅,769,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,,
+0755,0107,0755_w.asf,,✅, ,755,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,People Ready Processes:  Enabling Mainstream Adoption of BPM,J.R. Arredondo
+0756,0107,0756a_w.asf,,✅,✅,756,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Platforms for SOA and BPM: Comparing .NET and Java,David Chappell
+0757,0107,0757_w.asf,,✅,✅,757,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,SOA Governance and the Microsoft Ecosystem,Jeff Johnson
+0758,0107,0758_w.asf,,✅,✅,758,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Service Lifecycle Management: Addressing the Challenges of the Provider/Consumer Relationship,"William Oellermann, Chris Madrid"
+0759,,,,✅, ,759,,,,,84,Microsoft 2007 SOA and Business Process Conference,Service Virtualization with .NET and BTS,"William Oellermann, Raul Camacho"
+0760,0107,0760_w.asf,,✅,✅,760,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Enabling the Agile Enterprise: Building a Common Roadmap for Business and IT with a SOA Maturity Model (SOAMM),"Danny Garber,William Oellermann"
+0761,0107,0761_w.asf,,✅,✅,761,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Microsoft Dynamics CRM: SOA Platform for Building Custom Business Applications,"Philip Richardson,Maureen Hughes"
+0762,0107,0762_w.asf,,✅,✅,762,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Using Visual Studio Team System to Deliver the Right Services at the Right Time,Pieter de Bruin
+0763,0107,0763a_w.asf,,✅, ,763,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Integrating Legacy Assets with BizTalk 2006 R2,William Henry
+0764,0107,0764_w.asf,,✅,✅,764,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Integrating the Enterprise - Best Practices in Enterprise BizTalk Server and HIS Server Implementations,Craig Butler
+0765,0107,0765_w.asf,,✅,✅,765,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Building HIPAA Solutions with BizTalk Server2006 R2,Tim Rayburn
+0766,0107,0766_w.asf,,✅,✅,766,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Web Services Monitoring using Microsoft Systems Center Operations Manager 2007,"Dhananjay Mahajan,James Galvin"
+0767,0107,0767_w.asf,,✅,✅,767,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,How to Turn and Upgrade into SOA,Marcelo Schnettler
+0768,0107,0768_w.asf,,✅,✅,768,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Visio as Business Process Analysis Tool,Mark Nelson
+0769,0107,0769_w.asf,,✅,✅,769,hd,✅,✅,✅,84,Microsoft 2007 SOA and Business Process Conference,Keynote: Welcome and Introduction: Changing the World with Microsoft SOA,Donald Ferguson
 0770,0109,0770_w.asf,, , ,770,high,✅,✅,✅,86,Convergence 2007 - Copenhagen,Keynote: Business without Borders,Jeff Raikes
 0771,0109,0771_w.asf,, , ,771,high,✅,✅,✅,86,Convergence 2007 - Copenhagen,The Power of Microsoft Dynamics CRM 4.0 for Customer Choice,"Brad Wilson, Bryan Nielson"
 0772,0109,0772_w.asf,, , ,772,high,✅,✅,✅,86,Convergence 2007 - Copenhagen,Integrated Innovation with Microsoft Platform,"Jonathan Perera, Mike Ehrenberg"
@@ -783,9 +783,9 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0782,0109,0782_w.asf,, , ,782,high,✅,✅,✅,86,Convergence 2007 - Copenhagen,Introduction to SharePoint,Bob Sutton
 0783,0109,0783_w.asf,, , ,783,high,✅,✅,✅,86,Convergence 2007 - Copenhagen,Microsoft Dynamics CRM: Architecting for the Enterprise,Klaus Bürg
 0784,,,,,,784,,,,,,,,
-0785,0110,0785a_w.asf,, , ,785,high,✅,✅,✅,92,Croatia Security Days 2007,,
+0785,0110,0785a_w.asf,, , ,785,high,✅,✅,✅,92,Croatia Security Days 2007,The Fortified Data Center in Your Future,Steve Riley
 0786,0110,0786a_w.asf,, , ,786,high,✅,✅,✅,92,Croatia Security Days 2007,,
-0787,0110,0787a_w.asf,, , ,787,high,✅,✅,✅,92,Croatia Security Days 2007,,
+0787,0110,0787a_w.asf,, , ,787,high,✅,✅,✅,92,Croatia Security Days 2007,"It's 11:00 PM, Do You Know Where Your Data Is?",Steve Riley
 0788,0110,0788a_w.asf,, , ,788,high,✅,✅,✅,92,Croatia Security Days 2007,,
 0789,0110,0789a_w.asf,, , ,789,high,✅,✅,✅,92,Croatia Security Days 2007,,
 0790,0110,0790a_w.asf,, , ,790,high,✅,✅,✅,92,Croatia Security Days 2007,,
@@ -804,12 +804,12 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0803,0111,0803_w.asf,,✅, ,803,high,✅,✅,✅,88,Windows Server 2008 Summit,,
 0804,0111,0804_w.asf,,✅, ,804,high,✅,✅,✅,88,Windows Server 2008 Summit,,
 0805,,,, , ,805,low, , , ,95,IT-HerOlympics,Panel Discussion,
-0806,,,, , ,806,high,✅,✅,✅,89,TechNet Live,,
-0807,,,, , ,807,high,✅,✅,✅,89,TechNet Live,,
-0808,,,, , ,808,high,✅,✅,✅,89,TechNet Live,,
-0809,,,, , ,809,high,✅,✅,✅,89,TechNet Live,,
-0810,,,, , ,810,high,✅,✅,✅,89,TechNet Live,,
-0811,,,, , ,811,high,✅,✅,✅,89,TechNet Live,,
+0806,,,, , ,806,high,✅,✅,✅,89,TechNet Live,Windows Server 2008: Server Virtualization Deep Dive,Olav Tvedt
+0807,,,, , ,807,high,✅,✅,✅,89,TechNet Live,Windows Server 2008: Active Directory,Ragnar Harper
+0808,,,, , ,808,high,✅,✅,✅,89,TechNet Live,Windows Server 2008: Network Access Protection,Olav Tvedt
+0809,,,, , ,809,high,✅,✅,✅,89,TechNet Live,Windows Server 2008: Terminal Services,Morten Jenssen
+0810,,,, , ,810,high,✅,✅,✅,89,TechNet Live,Windows Server 2008: Remote Management & Server Core,Ragnar Harper
+0811,,,, , ,811,high,✅,✅,✅,89,TechNet Live,Windows Server 2008: Utrulling / Deployment,Olav Tvedt
 0812,0113,0812_w.asf,, , ,812,high,✅,✅,✅,90,Microsoft Innovation Center Athens Launch,Building and Managing the Magic: The SOA Platform of the Future,Ron Jacobs
 0813,0113,0813_w.asf,, , ,813,high,✅,✅,✅,90,Microsoft Innovation Center Athens Launch,The Magic of Software,Bill Gates
 0814,0099,0814_w.asf,, , ,814,,,,,77,Documentaries,Microsoft Spotlight + British Airway,
@@ -837,23 +837,23 @@ VID,EID,ASF,STWMV,STPPT,STSLIDES,SLID,SLWMV,SLTN,SLSLIDES,SLPPT,EVTID,Event,Titl
 0836,0118,0836c_w.asf,, , ,836,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,Forefront Client Security,Ronald Beekelaar
 0837,0118,0837_w.asf,, , ,837,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,Forefront Server Security,Ronald Beekelaar
 0838,0118,0838a_w.asf,, , ,838,high,✅,✅,✅,96,Building a Security Infrastructure with Microsoft Forefront,Forefront Edge Security,Ronald Beekelaar
-0839,0119,0839a_w.asf,, , ,839,high,✅,✅,✅,97,TechDays 2008,DAT102_DAT_102_Presentation_generale_de_SQL_Server_2008_V1_0,
-0840,0119,0840a_w.asf,, , ,840,high,✅,✅,✅,97,TechDays 2008,DEC104_TechDays_2008_Decouverte_d_Analysis_Services_2008,
-0841,0119,0841a_w.asf,, , ,841,high,✅,✅,✅,97,TechDays 2008,DEC206_TechDays_2008_Reporting_Services_2008,
-0842,0119,0842a_w.asf,, , ,842,high,✅,✅,✅,97,TechDays 2008,INF201_INF_201_Strategies_d_administration_locale_et_distante_avec_Windows_Server_2008_outils_et_configuration,
-0843,0119,0843a_w.asf,, , ,843,high,✅,✅,✅,97,TechDays 2008,INF205_Cluster,
-0844,0119,0844a_w.asf,, , ,844,high,✅,✅,✅,97,TechDays 2008,INF216_IIS_7_0_Clean_laurenbo,
+0839,0119,0839a_w.asf,, , ,839,high,✅,✅,✅,97,TechDays 2008,Presentation generale de SQL Server 2008,
+0840,0119,0840a_w.asf,, , ,840,high,✅,✅,✅,97,TechDays 2008,Decouverte d Analysis Services 2008,
+0841,0119,0841a_w.asf,, , ,841,high,✅,✅,✅,97,TechDays 2008,Reporting Services 2008,
+0842,0119,0842a_w.asf,, , ,842,high,✅,✅,✅,97,TechDays 2008,Windows Server 2008 Administration Locale et Distante,
+0843,0119,0843a_w.asf,, , ,843,high,✅,✅,✅,97,TechDays 2008,Cluster,
+0844,0119,0844a_w.asf,, , ,844,high,✅,✅,✅,97,TechDays 2008,IIS 7.0,
 0845,0119,0845a_w.asf,, , ,845,high,✅,✅, ,97,TechDays 2008,,
 0846,0119,0846a_w.asf,, , ,846,high,✅,✅, ,97,TechDays 2008,,
 0847,0119,0847a_w.asf,, , ,847,high,✅,✅, ,97,TechDays 2008,,
 0848,0119,0848a_w.asf,, , ,848,high,✅,✅, ,97,TechDays 2008,,
-0849,0119,0849a_w.asf,, , ,849,high,✅,✅,✅,97,TechDays 2008,LAN111_Team_System_2008,
-0850,0119,0850a_w.asf,, , ,850,high,✅,✅,✅,97,TechDays 2008,LAN303_Visual_Studio_2008,
-0851,0119,0851a_w.asf,, , ,851,high,✅,✅,✅,97,TechDays 2008,Noyau Windows Server 2008,
-0852,0119,0852a_w.asf,, , ,852,high,✅,✅,✅,97,TechDays 2008,VIR201_VIR_201_Virtualisation_de_serveurs_avec_Windows_Server_2008_Hyper_V,
-0853,0119,0853a_w.asf,, , ,853,high,✅,✅,✅,97,TechDays 2008,WEB106_Cyril_Decouverte_Silverlight_Techdays08,
-0854,0119,0854a_w.asf,, , ,854,high,✅,✅,✅,97,TechDays 2008,WEB210_presentation_afup,
-0855,0119,0855a_w.asf,, , ,855,high,✅,✅,✅,97,TechDays 2008,WEB301_Web301,
+0849,0119,0849a_w.asf,, , ,849,high,✅,✅,✅,97,TechDays 2008,Visual Studio Team System 2008,
+0850,0119,0850a_w.asf,, , ,850,high,✅,✅,✅,97,TechDays 2008,Visual Studio 2008,
+0851,0119,0851a_w.asf,, , ,851,high,✅,✅,✅,97,TechDays 2008,Windows Server 2008,
+0852,0119,0852a_w.asf,, , ,852,high,✅,✅,✅,97,TechDays 2008,Windows Server 2008 Hyper-V,
+0853,0119,0853a_w.asf,, , ,853,high,✅,✅,✅,97,TechDays 2008,Silverlight 1.0,
+0854,0119,0854a_w.asf,, , ,854,high,✅,✅,✅,97,TechDays 2008,,
+0855,0119,0855a_w.asf,, , ,855,high,✅,✅,✅,97,TechDays 2008,,
 0856,0120,0856_w.asf,, , ,856,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Dynamic IT & The 2008 Launch Wave,Eric Rudder
 0857,0120,0857_w.asf,, , ,857,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Windows Server 2008: Internet Information Services 7.0,
 0858,0120,0858_w.asf,, , ,858,high,✅,✅,✅,98,Heroes Happen Here Launch 2008 Greece,Windows Server 2008: Virtualization,Panagiotis Korologos
